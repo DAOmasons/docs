@@ -17,7 +17,7 @@ const sidebars = {
   docs: [
     {
       type: 'category',
-      label: 'Mission, Vision, Values',
+      label: 'About',
       items: [
         'Intro/intro',
         'Intro/why-daos',
