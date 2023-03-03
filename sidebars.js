@@ -17,12 +17,13 @@ const sidebars = {
   docs: [
     {
       type: 'category',
-      label: 'About',
+      label: 'DAO Masons',
       items: [
         'Intro/intro',
-        'Intro/why-daos',
-        'Intro/new-builders',
+        'Intro/manifesto',
+        'Intro/hire',
         'Intro/mason-values',
+        'Intro/join',
       ],
     },
     {

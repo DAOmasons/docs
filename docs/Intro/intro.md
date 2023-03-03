@@ -1,25 +1,25 @@
 ---
-sidebar_label: 'Who are we?'
+sidebar_label: 'About'
 sidebar_position: 2
 ---
 
 # DAO Masons
 
-DAO Masons are a collective of builders dedicated to helping other DAOs succeed. We craft the tools, processes, and systems that DAOs need to achieve their goals.
+DAO Masons are a collective of builders dedicated to helping other DAOs coordinate. We craft the tools, processes, and systems that DAOs need to achieve their goals.
 
 ## What We Offer
 
 ### Design
 
-We design functional DAOs that help your community make decisions, coordinate, and grow. We help you define your mission, vision, and values, and then build the systems that will help you achieve them.
+We design functional DAOs that help communities make decisions, coordinate, and grow. We gather input from the community and help them define their mission, vision, and values. Then we build the mechanisms that make it possible.
 
 ### Development
 
-DAOs are unique. By crafting custom DAO applications and tools, we are able to let you and your community focus on what matters most: the mission.
+DAOs are unique. By crafting custom DAO applications and tools, we are able to let the community focus on what matters most: the mission.
 
 ### Education
 
-DAO technology is challenging and complex. In order for governance to be accessible to all members, they need know what game they are playing, and how to play it well. We provide workshops and cohorts to turn your members into power-users.
+In order for governance to be accessible to all members, they need know what game they are playing, and how to play it well. We provide workshops and cohorts to turn every member into a power-user.
 
 ### Products
 
