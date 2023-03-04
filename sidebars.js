@@ -16,43 +16,36 @@ const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   docs: [
     {
-      type: "category",
-      label: "Foundation Docs",
-      collapsible: true,
-      collapsed: false,
+      type: 'category',
+      label: 'DAO Masons',
       items: [
-        {
-          type: "category",
-          label: "Mission, Vision, Values",
-          items: [
-            "Intro/intro",
-            "Intro/why-daos",
-            "Intro/new-builders",
-            "Intro/mason-values",
-          ],
-        },
-        {
-          type: "category",
-          label: "Rules of the Game",
-          items: [
-            "Rules/governance",
-            "Rules/dao-structure",
-            "Rules/dao-roles",
-            "Rules/projects",
-            "Rules/glossary",
-          ],
-        },
-        {
-          type: "category",
-          label: "Rituals",
-          items: [
-            "Rituals/ritual-of-sacrifice",
-            "Rituals/ritual-of-skill",
-            "Rituals/ritual-of-growth",
-            "Rituals/ritual-of-oaths",
-            "Rituals/ritual-of-echoes",
-          ],
-        },
+        'Intro/intro',
+        'Intro/manifesto',
+        'Intro/hire',
+        'Intro/mason-values',
+        'Intro/join',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Rules of the Game',
+      items: [
+        'Rules/governance',
+        'Rules/dao-structure',
+        'Rules/dao-roles',
+        'Rules/projects',
+        'Rules/glossary',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Rituals',
+      items: [
+        'Rituals/ritual-of-sacrifice',
+        'Rituals/ritual-of-skill',
+        'Rituals/ritual-of-growth',
+        'Rituals/ritual-of-oaths',
+        'Rituals/ritual-of-echoes',
       ],
     },
   ],
