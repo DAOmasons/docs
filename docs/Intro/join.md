@@ -12,6 +12,8 @@ The contributor track is a **low-friction track**, designed to get hard-working,
 
 The key distinction between contributors and core members is that contributors are not committed to full-time DAO Masons governance. There are no limitations on earnings or how many projects a contributor can work on.
 
+If you wish to begin working at DAO Masons, please join our Discord and introduce yourself in the #introductions channel.We will then invite you to our contributor channel where you can begin working on projects.
+
 ### Core Members:
 
 Governance requires frequent, consistent, and dedicated participation. The Core Member track is designed for those who are committed and determined to make DAO Masons as successful as possible.
@@ -53,3 +55,9 @@ In order to become a contributor, you must:
 - Core Members are expected to participate in all DAO governance meetings and discussions. Of course, there are exceptions for vacations, illness, etc. but Core Members are communicate when they are unable to attend.
 - There must be one Core Member leading every project. A team lead is responsible for the outcome and making final decisions on that project. However, a team lead can also delegate some management responsibilities to Contributors with management roles (ex. Project Manager)
 - Core Members vote on which projects DAO Masons should work on, how to manage finances, and how to make changes to the DAO rules, culture documents, and governance mechanics, etc.
+
+#### Read More:
+
+- [DAO Structure](/docs/Rules/dao-structure)
+- [Ritual of Acumen](/docs/Rituals/ritual-of-acumen)
+- [Ritual of Oaths](/docs/Rituals/ritual-of-oaths)
