@@ -4,26 +4,80 @@ sidebar_label: "Glossary"
 
 # Glossary
 
-Attestation
-Badge
-Claim
-Colleague Letters of Understanding
-Contributor
-Core Member
-Core DAO
-Demotion Proposal
-Echo Fund
-Moloch
-Project - Internal/External
-Project Lead
-Member Removal
-New Member Proposal
-Ouster Proposal - used when operating in bad faith.
-Payout Schema
-Promotion Proposal
-Quest
-Ritual
-Shares - Voting & Non-voting
-Tools of the Trade
-Treasury - DAO Treasury, Project Treasury
-Trusted System
+- Attestation
+- Badge
+  - An NFT awarded for achievments within the DAO, such as completing a quest or for completing a project.
+- Claim
+- Colleague Letters of Understanding
+  - Aggrements DAO Mason and contributors sign, guiding their commitment to the DAO or the project.
+- Consultation
+  - Our whiteglove process for gaining a full understanding of a DAOs needs.
+- Contractor
+  - Skiled craftspeople that join us to complete client work and or internal projects.
+- Contributor
+  - Craftspeople that contribute to client work.
+- Core Member
+  - DAO Masons members who take part in in governance and operations of the DAO Masons DAO.
+- Core DAO
+  - The governance and operations DAO for DAO Masons.
+- Demotion Proposal
+  - A proposal to convert an inactive members voting shares to non voting shares. 
+- Echo Fund
+  - A fund that accumulates with every project and is streamed to members in proportion to the shares they have accumulated in the DAO.
+- Lex DAO
+  - The arbitrator organization, should any disputes arise in our Smart Invoice agreement.
+- Moloch
+  - Moloch is many things, Moloch is:
+    - a fictional Demon that brings chaos and discoordination upon the world. DAOs are a way of overcoming this demons effects by enabling coordination.
+    - The contracts which form the back end for governance of DAO Masons. The most current version of the moloch contract, V3, is called baal.sol
+    - A DAO named moloch DAO, which provides grants to important Ethereum ecosystem inititives. 
+- Offer Sheet
+  - Our written offer of services, developed after the consulatation process.
+- Payment Milestone
+  - Depending upon the size of a project, payments may be broken down upon completion of approriate "chunks" of work.
+- Project Agreement
+  - Our final project agreement. This will be linked to our Smart Invoice.
+- Project
+  - Internal
+    - Projects that are working on the improvment of DAO Masons.
+  - External
+    - Client Projects
+- Project Lead
+  - Project leads are responsible to ensure all the resources are available to complete a project on time and on budget. They define the roles that are required to complete work and ensure those roles are filled.
+- Project Closeout
+  - The process of shipping the finalized project and rage quitting the project DAO.
+- Member Removal
+  - A proposal to remove a member from the DAO. If successful the members DAO tokens will be burned and the member would recieve their proportionate amount of tokens from the treasury.
+- New Member Proposal
+  - After a contributor has completed all the requirements to become a voting member of the DAO, they must make an online proposal to be voted on by members.
+- Ouster Proposal
+  - used when operating in bad faith. Converts Voting shares to non voting shares.
+- Payout Schema
+- Promotion Proposal
+  - A proposal to convert a members shares from non voting, into voting shares.
+- Quest
+  - Educational journey's we use to advance our skills and craftsmanship DAOs, governance and development.
+- Rage Quit
+  - The ability of a member to convert their DAO tokens into their fair fair of the DAO treasury.
+- Ritual
+  - The documents that guide the DAO Masons style of governance.
+- Shares 
+  - Voting
+    - Can vote on proposals.
+    - May sponser proposals.
+    - Econmomic Exit Rights (Rage Quit).
+    - Shares are earned, not purchased.
+    - Non Transferable erc20 tokens
+    - Permissioned
+  - Non-voting
+    - Economic Exit Rights.
+- Smart Invoice
+  - Our preferred and trusted escrow service, providing milestone payments and arbitration through Lex DAO.
+- Tools of the Trade
+- Transparent Work
+  - Our client work will be fully available for inspection and auditing by our clients.
+- Treasury 
+  - DAO Treasury
+  - Project Treasury
+- Trusted System
+  - An organization system that each member must maintain, in order to maintain motivation for completing tasks for the DAO.
