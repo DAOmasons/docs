@@ -30,7 +30,7 @@ const sidebars = {
       type: 'category',
       label: 'Rules of the Game',
       items: [
-        'Rules/who-decides',
+        'Rules/decision-making',
         'Rules/core-dao',
         'Rules/proposals',
         'Rules/sustainability',
