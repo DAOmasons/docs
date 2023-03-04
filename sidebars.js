@@ -31,6 +31,7 @@ const sidebars = {
       label: 'Rules of the Game',
       items: [
         'Rules/decision-making',
+        'Rules/membership-rules',
         'Rules/core-dao',
         'Rules/proposals',
         'Rules/sustainability',
