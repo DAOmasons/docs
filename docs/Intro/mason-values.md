@@ -31,12 +31,10 @@ sidebar_label: 'DAO Mason Values'
 
 <p>
 ⚔️ A DAO Mason cultivates a culture of craft, and craft is sacred. Dedication and focus are the rituals we perform to conjure expertise.
-
 </p>
 
 <p>
 ⚔️ We are each craftsmen with unique specialties and skills.  By working each day to approach mastery of our crafts, we become more effective as allies and colleagues.
-
 </p>
 
 ## Principles
