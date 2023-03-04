@@ -21,8 +21,8 @@ const sidebars = {
       items: [
         'Intro/intro',
         'Intro/manifesto',
-        'Intro/hire',
         'Intro/mason-values',
+        'Intro/hire',
         'Intro/join',
       ],
     },

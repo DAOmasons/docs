@@ -1,50 +1,50 @@
 ---
-sidebar_label: "DAO Mason Values"
+sidebar_label: 'DAO Mason Values'
 ---
 
 # DAO Mason Values
 
 ## Support Sovereign Communities
 
-<aside>
+<p>
 📕 A DAO Mason builds and services structures that offer sovereign communities the protection, stability, and freedom to coordinate.
 
-</aside>
+</p>
 
-<aside>
+<p>
 🏰 Just as the fortress offered protection and stability to ancient community, we build DAO structures that provide structure and order for modern organizations.
 
-</aside>
+</p>
 
 ## Productive, Disciplined, Sacrificing
 
-<aside>
+<p>
 📕 A DAO Mason is productive and disciplined. Voluntary, coordinated sacrifice for virtuous ideals is the blade we use to sever the head of Moloch.
-</aside>
+</p>
 
-<aside>
+<p>
 ⚔️ Our clients entrust us with their money, their businesses, and their livelihoods. When we mess up, miss a deadline, or slow down, it matters. We take that responsibility seriously.
 
-</aside>
+</p>
 
 ## Dedication, Focus, Craft
 
-<aside>
+<p>
 ⚔️ A DAO Mason cultivates a culture of craft, and craft is sacred. Dedication and focus are the rituals we perform to conjure expertise.
 
-</aside>
+</p>
 
-<aside>
+<p>
 ⚔️ We are each craftsmen with unique specialties and skills.  By working each day to approach mastery of our crafts, we become more effective as allies and colleagues.
 
-</aside>
+</p>
 
 ## Principles
 
-<aside>
+<p>
 📕 When we are stuck, indecisive or unsure, our principles provide us guidance. When we are confident and productive, our principles shine through. Return here to reorient yourself.
 
-</aside>
+</p>
 
 > **Non-coercion** - Our coordination comes from a place of alignment, not manipulation or authority alone.
 
@@ -68,6 +68,6 @@ sidebar_label: "DAO Mason Values"
 
 > **Practice Applied Faith** - We reinforce to ourselves that the outcomes we aim for are possible, and we take consistent action to reach them.
 
-> **Good Humor** - Despite our dedication, we set our ego aside and make sure we’re having fun along the way.
+> **Good Humor** - Despite our dedication, we set our ego p and make sure we’re having fun along the way.
 
 > **Focus** - we use practical, organized planning to prioritize, and we solve one problem at a time.
