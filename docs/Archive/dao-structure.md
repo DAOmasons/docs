@@ -17,7 +17,8 @@ sidebar_label: "DAO Structure"
 
 - To lose DAO Masons core membership:
   - Voluntarily exit the DAO
-  - An Inactivity or Bad Faith Demotion proposal passes
+  - Inactivity proposal passes
+  - Bad Faith Demotion proposal passes
 
 ## Demotion
 
