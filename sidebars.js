@@ -24,9 +24,9 @@ const sidebars = {
       type: 'category',
       label: 'Rules of the Game',
       items: [
+        'Rules/dao-types',
         'Rules/decision-making',
         'Rules/membership-rules',
-        'Rules/core-dao',
         'Rules/proposals',
         'Rules/sustainability',
         'Rules/projects',
