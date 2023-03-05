@@ -20,4 +20,4 @@ Community Roles are very flexible and some may come and go depending on needs. S
 
 These are important roles within DAO Masons as they represent how we "get things done." Project roles define who is responsible to complete tasks in a project, eg. The project "Lead Devoloper" is responsible for development choices in a project. A "Project Lead" is responsible for deciding on the required roles for a project and ensuring those roles are filled. One person may hold multiple roles if required.
 
-![DAO Role Examples](../../static/img/DMroles.png)
+![DAO Role Examples](../../static/img/DMroles.png#center)
