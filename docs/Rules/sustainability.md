@@ -68,6 +68,24 @@ The only way to get exposure to the Echo Fund is to contribute to the Core DAO. 
 
 It is hard to earn a steady income when providing services, so the Echo Fund provides an opportunity to earn passive income in between projects.
 
-### Flywheels
+## Flywheels
 
-Revenue Cycle
+### Services/Product Cycle
+
+![Product Services Cycle](/img/Services-Product-Cycle.png)
+
+### KnowledgeBase/Services Cycle
+
+![KnowledgeBase Services Cycle](/img/Revenue-Services-Cycle.png)
+
+### Content/Services Cycle
+
+![Content Services Cycle](/img/Content-Services-Cycle.png)
+
+### Revenue Cycle
+
+![Revenue Cycle](/img/Revenue-Cycle.png)
+
+### Rewards Cycle
+
+![Rewards Cycle](/img/Rewards-Cycle.png)
