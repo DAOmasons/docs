@@ -21,10 +21,11 @@ In the beginning, DAO Masons will focus primarily on services. This will allow u
 Our services will be focused on the following areas:
 
 - DAO Design
+- DAO Documentation and Audits
 - DAO Development
 - DAO Admin and Operations
 - DAO Training
-- Mediation and Conflict Resolution
+- Mediation and Conflict Resolution (discuss)
 - Consulting in other aligned disciplines
 - Any other service that would provide value to a decentralized community
 
@@ -69,4 +70,4 @@ It is hard to earn a steady income when providing services, so the Echo Fund pro
 
 ### Flywheels
 
--- start here tomorrow.
+Revenue Cycle
