@@ -1,8 +1,8 @@
 ---
-sidebar_label: 'Core DAO vs. Project DAOs'
+sidebar_label: "Core DAO vs. Project DAOs"
 ---
 
-# DAO Types
+# Core DAO vs. Project DAOs
 
 ## Core DAO
 

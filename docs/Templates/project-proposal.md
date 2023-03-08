@@ -1,3 +1,7 @@
+---
+sidebar_label: "New Project Template"
+---
+
 ## New Project Template/Example
 
 ## 1st Phase:

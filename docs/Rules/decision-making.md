@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Decision Making'
+sidebar_label: "Decision Making"
 ---
 
 # How We Make Decisions
@@ -15,7 +15,7 @@ sidebar_label: 'Decision Making'
 
 ## What does the Core DAO decide on?
 
-The Core DAO makes decisions that fall withing the Core DAO scope. This includes:
+The Core DAO makes decisions that fall within the Core DAO scope. This includes:
 
 - **Projects**. What client work the DAO agrees to take on as well as internal projects.
   - This includes examining who is working on the project, what the project is, what the project is worth, and who the team lead will be. - This is all summarized in a [Project Request](docs/Templates/project-proposal) that is submitted prior to the meeting.

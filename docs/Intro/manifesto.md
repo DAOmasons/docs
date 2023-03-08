@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Mission/Manifesto'
+sidebar_label: "Mission/Manifesto"
 ---
 
 # DAO Mason Manifesto
@@ -50,4 +50,4 @@ DAOs are distinct because of their accessible, open, opt-in nature. Which is why
 
 This doesn't mean that DAOs should not interface with a legal system. But the main layer that DAO members interact should be more game-like. A well built coordination mechanism should be engaging, fun, and empowering.
 
-// condense
+<!-- TODO: condense -->

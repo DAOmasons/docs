@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'About'
+sidebar_label: "About"
 sidebar_position: 2
 ---
 
@@ -25,9 +25,11 @@ In order for governance to be accessible to all members, they need know what gam
 
 Some problems are common to many DAOs. Our goal is to maximize the value we create for the ecosystem by refactoring our custom service solutions into scalable, modular products.
 
-### DAO Operations
+<!--
 
-<!-- ### Why Now?
+TODO: ### DAO Operations
+
+ ### Why Now?
 
 It falls on us to challenge old assumptions and become new engineers of human coordination systems. We do this for ourselves, our families, communities and the greater society. We do this by pursuing mastery over the fundamental mechanics of the new basic unit of human coordination: The DAO.
 
