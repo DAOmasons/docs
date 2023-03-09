@@ -6,17 +6,17 @@ Undecided
 
 ##### Current Stage of Development
 
-- [x] Unimplemented
-- [ ] Manual
+- [ ] Unimplemented
+- [x] Manual
 - [ ] Systemetized
 - [ ] Partially Automated
 - [ ] Fully Automated/Passive
 
 ## Essence
 
-This is a role/badge system for rewarding members for their work on projects.
+Ritual of Ranks is how we keep track of the roles that each member has completed on a project.
 
-At the beginning of a project (proposal phase), we create outlines for each worker's roles on the project. Then once the project is over, the team lead mints/records (spreadheet for now, eventually through SBTs) the role as a badge. This works as a point system, to see who could be most eligable to work on the next project.
+At the beginning of a project (proposal phase), we create outlines for each worker's roles on the project. Then once the project is over, the team lead mints/records (spreadsheet for now, eventually through SBTs) the role as a badge. This works as a point system, to see who could be most eligible to work on the next project.
 
 ## Why?
 
@@ -29,7 +29,7 @@ Also, this system can help organize project teams by roles a clear division of l
 #### What problem are we solving
 
 - We sometimes don't know who to choose for a project
-- Team selction if opaque, can sometime create tensions without an objective selection metric.
+- Team selection if opaque, can sometime create tensions without an objective selection metric.
 - Without clear divisions of labour, we risk conflicts and redundant work.
 
 #### Why is this a good solution
@@ -53,23 +53,34 @@ Mitigation: Perhaps a system where we add a score value into the metadata of a t
 
 ## Current Implementation
 
-We currently have no infrastrure in place for this. We are recording all past work in a spreadsheet, so that we can mint retroactively once the mechanism has been implemented.
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1dOYDqJTV5oJSYJo64eZbIqWJFmTqWHtDQcHmz-31DOU/edit?usp=sharing).
 
-Here is a link to the spreadsheet.
+We are currently in the unimplemented/manual stage for this ritual. We are currently using a spreadsheet to keep track of all the roles that each member has completed, as well as some other useful metrics.
 
-Currently, we keep an accounting of all the projects that each member has completed. For each member, we store the role that member had on that project, the amount of time they spent, the avg value level, and whether or not they completed the project. If there was a rubric used (ex. Ritual of Light), then we calculate the members average value level. If there wasn't a rubric, they get a value level of 3 (mid-level).
+- Project Worked
+- Time Spent on project
+- Value Level avg of project(if there was a rubric used in a Ritual of Light system for that project. If not then it's a mid-level 3)
 
 ## Roadmap
 
-Next Step:
+#### Next Step
 
-Solving for the limitations and pitfalls mentioned above. We need to develop a score system so that we can account for nuances of value created on the project in order for these tokens to properly represent value.
+Try recording the aforementioned metrics for some projects and see if it's useful. Try calculating scores for overall contributions as well as for each job-type (ex. designer, developer, etc.)
 
-We need to design, play-test, and iterate on this system before minting tokens.
+If we feel the data is useful, then we should begin to work on a way to automate the input of this data to reduce the overall time a team lead spends on this ritual.
 
-There was an existing document that addressed some of these pitfalls. Read
-https://hackmd.io/@DAOMasons/H1oqJ3oqj
+#### Endgame
+
+We need to understand more about the use-case about the data that we are collecting before migrating to a tokenomic system.
+
+Systems are useful if people use them, so ideally we also have some understanding of UX for this system. For example, we try to reduce the amount of friction for team leads to use this system, and make it easy for them to see the data that they need.
+
+Once those barriers are effectively mitigated, then we should move to a fully onchain system that automates this process once a project is completed or has reached its review period.
+
+This system should include all the relevant metrics inside of the token metadata, and should be able to be easily queried.
 
 ## Details
 
-(Optional)
+Further reading:
+
+Boiler(Chris) has spent a good amount of time [thinking](https://hackmd.io/@DAOMasons/H1oqJ3oqj) about this system and has a lot of ideas about how to implement it.
