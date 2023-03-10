@@ -4,7 +4,7 @@
 
 _(Delete this section after you have copied the template)_
 
-##### Priority
+##### Implementation Priority
 
 (Out of all the rituals, where does this one sit. ex. Priority 1 of 9, Undecided, or Finished)
 
@@ -18,7 +18,7 @@ _(Delete this section after you have copied the template)_
 
 ## Essence
 
-_(1 Paragraph about what this system is)_
+_(1 Paragraph or bullet points about what this system is)_
 
 ## Why?
 

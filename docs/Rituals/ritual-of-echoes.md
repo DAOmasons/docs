@@ -1,93 +1,65 @@
----
-sidebar_label: "Ritual of Echoes"
----
+# Ritual/Implementation Template
 
-# Ritual of Echoes
+##### Priority
 
-The Ritual of Echoes describes the DAO Masons contributor compensation system. Income sources include client work, grants and product revenue. When income is received from any source it is distributed according to a "Payout Schema" which may include "Echoes" - payouts to "Share and Loot Holders".
+Undecided.
 
-### Shares and Loot
+##### Current Stage of Development
 
-Members of DAO Masons have the opportunity to accumulate Shares (which are required to obtain Voting Rights) and entitles them to Echo payouts. Non-members can accumulate Loot, which entitles them to Echo payouts but does not enable Voting Rights.
+- [ ] Unimplemented
+- [x] Manual
+- [ ] Systemetized
+- [ ] Partially Automated
+- [ ] Fully Automated/Passive
 
-Shares and Loot are typically distributed for contributions made directly to a DAO-internal project - aka "Building the Castle". These Shares and Loot are made available through the Payout Schema of DAO-internal projects and attributions are handled by the Project Leads.
+## Essence
 
-If a member loses member status, their shares are converted to Loot.
+Ritual of echoes is a mechanism for rewarding contributors for past contributions made to DAO Masons. Every the DAO earns revenue, we:
 
-### Project Work
+- Bring a predetermined amount of funds to the DAO
+- Of that amount, we allocate predetermined percentage to the DAO treasury and the rest to the Echo Fund.
+- The echo fund splits funds that are sent to it in proportion to each of share/non-voting share member.
+- The amount that each member receives is determined by the amount of shares (and non-voting shares)they have in the Core masons DAO.
+- Core Members earn shares by contributing to internal DAO projects.
+- Contributors earn non-voting shares by contributing to internal DAO projects.
+- 1 share generally equals on hour of work.
 
-All compensated work within DAO Masons must fall within the scope of a Project. Projects are proposed to the DAO and approved or denied by the DAO through a quorum vote. Every Project includes a Project Lead who is responsible for defining and administering the Project Payout Schema.
+## Why?
 
-### Payout Schemas
+- We need a way to incentivize people to build and maintain DAO Masons
+- We need a way to reward people for past contributions
+- Payment for services is intermittent and unpredictable, so we need a way for members to earn passive income during the times they are not working on an external project.
 
-All compensated work falls within a Project, each project includes a Payout Schema, and Payout Schemas are defined by the Project Lead. Payout Schemas specify how contributors to a given Project are compensated.
+#### What problems are we solving
 
-For client work, the Payout Schema is defined by the Project Lead. The default (recommended) schema is: 90% to direct contributors, 5% to DAO treasury and 5% toward Echoes. The 90% to direct contributors is moved through a sub-schema defined by the Project Lead to reward contributors in relation to the value and duration of the work performed.
+- Tragedy of the commons for goods within DAO Masons.
+- Unsteady and unpredictable income for service DAO members.
 
-For Grants, the default schema is 90% to the DAO treasury, 5% toward Echoes and 5% for those who prepared the grant - splits defined by the relevant Project Lead).
+#### Why is this a good solution
 
-For product revenue the default schema is 90% to the DAO treasury and 10% to Echoes.
+- If the DAO is generating revenue, it provides small amounts of passive income for everyone who has contributed in the past.
+- The proportions of funds received is proportional to the amount of work that each member has contributed.
+- Shares are diluted over time, as more and more contributions are made, ensuring that we're not just rewarding people who were here early. No matter what, we are rewarding people for how much time they have contributed to building up DAO Masons.
+- Allows DAO members to choose their own levels of contribution.
 
-Shares and Loot are only acquired by working directly on a DAO-internal project as an alternative to direct cash pay.
+#### Downsides/Risks
 
-### Echoes
+- Technical overhead. This will need to integrate with how our DAOs choose to handle payments from clients and revenue generated from
 
-Echoes are payouts directly to DAO share and loot holders proportional to their share of the total.
+## Current Implementation
 
-When income is received by The DAO from any source, a portion of those funds are sent out as Echoes. An Echo dispursal is divided among share and loot holders in proportion to their share of total.
+_(A full description of how the system is currently implemented.)_
 
-Echo Proportion = (Contributor Shares + Contributor Loot) / (Total shares + Total Loot)
+## Roadmap
 
-### Client Projects & DAO Masons Projects
+#### Next Step
 
-- Share/loot/pay schema is specified at beginning of each client contract
-- Workers receive pay according to the payout schema
-- Non-DAO Masons do not receive shares, but may receive loot
-- Client Contract work is encouraged to be just direct pay, not shares/loot
-- Pay schema must specify a portion of income goes to the DAO treasury (at least 10%) according to payout schema
-- A portion of all income sent to DAO treasury is dispersed to shareholders as a dividend according to DAO policy
+_(Brief Description of what the next implementation step is, with a link to a spec if it exists. If there is not spec, mention that a spec is needed.)_
 
-### Echo Policy
+#### Endgame
 
-- X% of remaining is distributed in dividends
-- X shouldn't change very often - could be pinned to an algorithm.
+_(Brief Description of the desired end state. Consider how things could change)_
 
-### Determining Payout Schemas
+## Details
 
-- DAO Generates a base rate chart for different types of work
-- DAO & Contributors negotiate a rate based on base rate chart at project initiation
-- Option 1: Pay them hourly for work performed based on DAO-determined rubric for value level assessment
-- Option 2: Pay them a portion of a set amount for achieving a predetermined outcome
-  - Ideally this is a portion that is proportional to the work performed by each individual using Checkin Mechanic
-  - Could also include a flat amount for a clearly defined portion of work
-
-### Contract Negotiation
-
-- Contracts should be negotiated at an amount that allows contractors to be paid and at least 10% above that to go to DAO for overhead.
-- Using our [Boilerplate Contract](https://github.com/DAOmasons/Hunting-Party/blob/main/chainsaw/DAO_Masons_-_CHAINSAW_Contract_SIGNED_FM.pdf)
-
-### Project Accountability
-
-- Contributors track their time
-- Work "with the lights on" - where everybody sees what everybody is doing.
-  - Say your work in front of other contributors
-  - Encourage workers to get feedback from peers on VL of work
-  - Team Lead has final say on value level of work
-  - Team Lead has the team as sensors to help them understand
-  - Phenomenon of "going off scope" and "not billing for it" could be flipped by team or team lead to bill for it
-  - OR could put in for a badge and others can signal you earned it.
-
-### Earning shares
-
-- Shares are earned by DAO Masons when they participate in a Project.
-
-### DAO Masons Membership
-
-- [Contributor vs Core Member](https://hackmd.io/0Xs3P69hQnq0VdUjSNHklA)
-
-- Or negotiate a flat payout to contractors based on outcome.
-
-Steps
-
-1. Get rubric together for contractors/workers
-2. Negotiate w/client
+_(Optional)_

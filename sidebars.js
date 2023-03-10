@@ -39,9 +39,9 @@ const sidebars = {
       label: 'Rituals',
       items: [
         'Rituals/ritual-of-sacrifice',
-        'Rituals/ritual-of-skill',
-        'Rituals/ritual-of-growth',
+        'Rituals/ritual-of-ranks',
         'Rituals/ritual-of-oaths',
+        'Rituals/ritual-of-acumen',
         'Rituals/ritual-of-echoes',
       ],
     },

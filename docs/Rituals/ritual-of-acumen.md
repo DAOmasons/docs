@@ -1,4 +1,4 @@
-# Ritual/Implementation Template
+# Ritual of Acumen
 
 ##### Priority
 
@@ -75,3 +75,5 @@ Hard to tell what items we can fully automate. This is a system that definitely 
 Automation is risky because we don't want to create a system that is too easy to game. We should have humans present to verify that the new member is actually studying the material.
 
 ## Details
+
+(none yet. Add resources for testing here.)
