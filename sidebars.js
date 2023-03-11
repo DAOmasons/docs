@@ -18,7 +18,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'DAO Masons',
-      items: ['Intro/intro', 'Intro/manifesto', 'Intro/hire', 'Intro/join'],
+      items: ['Intro/intro', 'Intro/mission', 'Intro/hire', 'Intro/join'],
     },
     {
       type: 'category',

@@ -1,16 +1,16 @@
 ---
-sidebar_label: "Mission/Manifesto"
+sidebar_label: "Mission & Principles"
 ---
 
-# DAO Mason Manifesto
+# Mission & Principles
 
 ## Mission Statement
 
-Our mission is to make powerful, effective, and accessible web-native organizations that are built upon principled foundations.
+### <p style={{color:'white'}}>Our mission is to unleash human potential through structured self governance.</p>
 
 <hr />
 
-## Manifesto
+## Principles
 
 ### Support Sovereign Communities
 
