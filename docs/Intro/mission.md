@@ -2,15 +2,17 @@
 sidebar_label: "Mission & Principles"
 ---
 
-# Mission & Principles
+# Our mission is to help DAOs win.
 
-## Mission Statement
+#### <span style={{color:'white'}}>This is the age of the DAO.</span>
 
-### <p style={{color:'white'}}>Our mission is to unleash human potential through structured self governance.</p>
+Extraordinary technology, self-sovereign coordination practices, decentralized governance structures - when pieced together properly, human potential becomes unleashed. DAO Masons is committed to making that happen as many times as possible.
 
-<hr />
+Big dreams need great teams. We see a future where everybody understands and has access to the modern tools, practices and support needed to make those dreams into reality.
 
-## Principles
+When that happens, DAOs win. And when DAOs win, we all win.
+
+## Our Principles
 
 ### Support Sovereign Communities
 
@@ -50,4 +52,10 @@ DAOs are distinct because of their accessible, open, opt-in nature. Which is why
 
 This doesn't mean that DAOs should not interface with a legal system. But the main layer that DAO members interact should be more game-like. A well built coordination mechanism should be engaging, fun, and empowering.
 
-<!-- TODO: condense -->
+### Current State of This Page
+
+- [ ] Empty
+- [ ] Rough Draft
+- [x] Editing passes: 1
+- [ ] Final Draft
+- [ ] Ratified

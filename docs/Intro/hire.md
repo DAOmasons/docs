@@ -33,3 +33,11 @@ If your project requires additional resources, we will bring in trusted contract
 ### Contact Us
 
 Please feel free to contact us at [DAO.Mason@proton.me](mailto:DAO.Mason@proton.me) or by [joining our Discord](https://discord.gg/zQYhrUB5Hj) if you have any questions or would like to discuss your project requirements further.
+
+### Current State of This Page
+
+- [ ] Empty
+- [x] Rough Draft
+- [ ] Editing passes: 0
+- [ ] Final Draft
+- [ ] Ratified

@@ -25,6 +25,14 @@ In order for governance to be accessible to all members, they need know what gam
 
 Some problems are common to many DAOs. Our goal is to maximize the value we create for the ecosystem by refactoring our custom service solutions into scalable, modular products.
 
+### Current State of This Page
+
+- [ ] Empty
+- [x] Rough Draft
+- [ ] Editing passes: 0
+- [ ] Final Draft
+- [ ] Ratified
+
 <!--
 
 TODO: ### DAO Operations

@@ -36,3 +36,11 @@ Read more about the Core Member Track [here](/docs/Rules/membership-rules#core-m
 - ##### [DAO Structure](/docs/Rules/dao-structure)
 - ##### [Ritual of Acumen](/docs/Rituals/ritual-of-acumen)
 - ##### [Ritual of Oaths](/docs/Rituals/ritual-of-oaths)
+
+### Current State of This Page
+
+- [ ] Empty
+- [x] Rough Draft
+- [ ] Editing passes: 0
+- [ ] Final Draft
+- [ ] Ratified
