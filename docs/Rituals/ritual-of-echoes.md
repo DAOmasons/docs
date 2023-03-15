@@ -1,4 +1,4 @@
-# Ritual/Implementation Template
+# Ritual of Echoes
 
 ##### Priority
 

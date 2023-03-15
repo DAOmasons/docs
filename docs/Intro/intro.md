@@ -1,5 +1,5 @@
 ---
-sidebar_label: "About"
+sidebar_label: 'About'
 sidebar_position: 2
 ---
 
@@ -13,7 +13,7 @@ We also believe that in order to get there, we need reliable and sustainable str
 
 Most importantly, DAOs must be competent. We believe that in order for DAOs to change the world, they must first share and delight in a rich collection of well-earned wins.
 
-#### Our mission is to help DAOs win. Because when DAOs win, we all win.
+**Our mission is to help DAOs win. Because when DAOs win, we all win.**
 
 ## What We Offer
 
