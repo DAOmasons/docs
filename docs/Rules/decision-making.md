@@ -87,3 +87,9 @@ Any and all decisions regarding within the project scope. Most, if not all cases
 - If the DAO has a large backlog of non-project decisions to make, they should schedule more Core Masons meetings until the backlog is cleared.
 - If this happens frequently, the DAO should assess the Core Mason Meeting process and evaluate its overall efficiency, and make changes where needed.
 - At no point should any decisions be allowed to sit in the backlog for more than 2 weeks without being addressed.
+
+- [ ] Empty
+- [ ] Rough Draft
+- [x] Editing passes: 1
+- [ ] Final Draft
+- [ ] Ratified

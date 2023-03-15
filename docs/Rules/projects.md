@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Projects'
+sidebar_label: "Projects"
 ---
 
 # Projects
@@ -110,3 +110,9 @@ Examples of ongoing operations include:
 - For Internal projects it will be once DAO Masons approves the project at the weekly meeting.
 - For ongoing operations, payout will happen on each payout interval (weekly, monthly, etc). This is done optimistically. If a Core Member does not feel the work is up to par, they can request an early review of the operation.
 - For all Client projects, the DAO takes its predetermined cut of the payment. This is currently 10% of the payment, but can be changed by the DAO.
+
+- [ ] Empty
+- [ ] Rough Draft
+- [x] Editing passes: 1
+- [ ] Final Draft
+- [ ] Ratified

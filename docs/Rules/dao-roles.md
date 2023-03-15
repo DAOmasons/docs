@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'DAO Roles'
+sidebar_label: "DAO Roles"
 ---
 
 # DAO Roles
@@ -24,3 +24,9 @@ Since we develop DAO products, obviously we would need developer roles, account 
 ## Discord Roles
 
 Roles within Discord often follow much of what has already been talked about in this document, in fact those DAO and contributor roles usually coincide with Discord roles. There are a few addition roles in the server which are important to note. For example, all of our bots are given a role, so that they appear nice and orderly on the right menu bar. Another one is #verified. This means that you are verified as human and do not mean any harm to the server.
+
+- [ ] Empty
+- [ ] Rough Draft
+- [x] Editing passes: 1
+- [ ] Final Draft
+- [ ] Ratified

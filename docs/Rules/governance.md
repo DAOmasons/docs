@@ -17,3 +17,9 @@ to create a hybrid system that is the best of both worlds.
 - Centralized authority is always interdependent with other centralized power structures (accountability to peers)
 
 There will never be an omni-dictator with irrefutable power but neither are we stuck in a luke-warm miasma of consensus-seeking "equals".
+
+- [ ] Empty
+- [ ] Rough Draft
+- [x] Editing passes: 1
+- [ ] Final Draft
+- [ ] Ratified
