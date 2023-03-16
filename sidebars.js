@@ -30,7 +30,6 @@ const sidebars = {
         'Rules/proposals',
         'Rules/projects',
         'Rules/dao-roles',
-        'Rules/glossary',
       ],
     },
     {

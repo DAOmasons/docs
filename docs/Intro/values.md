@@ -4,6 +4,10 @@ sidebar_label: 'Values'
 
 # Our Values
 
+**Game Direction**
+
+- Provide some preamble about our values and goals behind them.
+
 ### Support Sovereign Communities
 
 A DAO Mason builds and services structures that offer sovereign communities the protection, stability, and freedom to coordinate.
