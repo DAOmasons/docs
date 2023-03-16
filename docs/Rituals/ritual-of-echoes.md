@@ -1,9 +1,5 @@
 # Ritual of Echoes
 
-##### Priority
-
-Undecided.
-
 ##### Current Stage of Development
 
 - [ ] Unimplemented

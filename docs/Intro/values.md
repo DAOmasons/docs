@@ -36,6 +36,6 @@ DAOs are distinct because of their accessible, open, opt-in nature. Which is why
 
 - [ ] Empty
 - [ ] Rough Draft
-- [x] Editing passes: 1
+- [x] Editing passes: 2
 - [ ] Final Draft
 - [ ] Ratified

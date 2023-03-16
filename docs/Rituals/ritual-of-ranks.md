@@ -1,9 +1,5 @@
 # Ritual of Ranks
 
-##### Priority
-
-Undecided
-
 ##### Current Stage of Development
 
 - [ ] Unimplemented
