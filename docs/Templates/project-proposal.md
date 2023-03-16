@@ -4,7 +4,7 @@ sidebar_label: "New Project Template"
 
 ## New Projects
 
-Any member of the DAO can propose a new Project.  
+Any member of the DAO can propose a new Project.
 
 There are 2 main types of Projects: Internal and External
 
@@ -14,17 +14,62 @@ Projects may define **Recurring Processes** - actions that are expected to be re
 
 **Internal projects** are designed to improve some aspect of DAO Masons itself. Examples: Set up a CRM, Generate & Publish internal Rulebook.
 
-**External projects** are designed to provide service to an external entity according to external specifications. Examples: Launch a DAO-backed web site that lets Org A track user contributions. 
-
+**External projects** are designed to provide service to an external entity according to external specifications. Examples: Launch a DAO-backed web site that lets Org A track user contributions.
 
 ### Proposing a new Project
 
-Proposing a new PRoject starts with the New Project Template.  This is an opportunity to clearly define the Project Outcomes, scope, timeline, monetary budget, attentional budget, problems, win state and more. 
+Proposing a new PRoject starts with the New Project Template. This is an opportunity to clearly define the Project Outcomes, scope, timeline, monetary budget, attentional budget, problems, win state and more.
 
-This Template is reviewed by the DAO and approved or denied. If approved, template becomes the contract that the DAO uses to hold the Project accountable. 
+This Template is reviewed by the DAO and approved or denied. If approved, template becomes the contract that the DAO uses to hold the Project accountable.
 
 Rituals: The Why, followed by the Mechanics
 
+### Components of an Internal Project
+
+- Client
+- Client Contact (usually the Project Lead)
+- Project Lead
+- Team
+- Work involved
+- Estimate of time (and the expected amount billed to DAO Masons)
+- Scope of project (or projected output for ongoing projects)
+- Due date (or review date for ongoing projects)
+- Brief Analysis of the project
+- Some sort of project DAO mechanism to track progress and give fair compensation to the team (usually this will be [Ritual of Light](/docs/Rituals/ritual-of-sacrifice.md)
+- Payment method (ex. Smart Invoice)
+- Clients preferred network for payments (try to use the same network as DAO Masons Core DAO to avoid fees and transit risks)
+
+## Ongoing Operations
+
+Ongoing operations are projects that are ongoing and have no end date. These projects are generally used to manage the day to day operations of DAO Masons. Like internal projects, DAO Masons is the client. However, these projects many not have end dates, and instead will decide on renewing the operation during **reviews**.
+
+Examples of ongoing operations include:
+
+- Preparing agenda before each meeting
+- Taking notes during meetings
+- Routing DAO funds or managing the treasury
+- Ongoing client relations and acquisitions
+- Content with a set release schedule, like a podcast.
+
+### Components of an Ongoing Operation
+
+- Project Lead
+- Team
+- Work involved
+- Estimate of time spent each period (week or month) (and the expected amount billed to DAO Masons)
+- Expected output each period (week or month)
+- Payout interval (weekly, monthly, etc)
+- Review Date
+- Brief Analysis of the operation
+- Usually some sort of role, and a way for other DAO members to leave feedback on the operation.
+- Some sort of project DAO mechanism to track progress and give fair compensation to the team (usually this will be [Ritual of Light](/docs/Rituals/ritual-of-sacrifice.md)
+
+## How to create a Project
+
+1. Create a [Project Request](/docs/Templates/project-proposal) and add it to the Discussion Forum.
+2. The item will be added to the meeting agenda.
+3. DAO Masons Core Members discuss the project request, and decide whether or not to submit the proposal to the DAO. This can happen at any stage of the meeting decision making [process](/docs/Rules/decision-making).
+4. Execution of the Moloch Proposal will create a new project DAO for the team to work within. (Currently this process is done manually)
 
 ## 1st Phase:
 
