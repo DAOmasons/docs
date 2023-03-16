@@ -8,7 +8,7 @@
 
 - [ ] Unimplemented
 - [ ] Manual
-- [ ] Systemetized
+- [x] Systemetized
 - [ ] Partially Automated
 - [ ] Fully Automated/Passive
 
@@ -55,7 +55,7 @@ _(Can also include some steps to mitigation with further steps in )_
 
 ## Current Implementation
 
-_(A full description of how the system is currently implemented.)_
+We have a
 
 ## Roadmap
 

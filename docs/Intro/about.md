@@ -1,6 +1,5 @@
 ---
 sidebar_label: 'About'
-sidebar_position: 2
 ---
 
 # DAO Masons
