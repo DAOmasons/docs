@@ -8,24 +8,46 @@ Proposing a new [Project](/docs/Rules/projects) starts with this New Project Tem
 
 This Template is reviewed by the DAO and approved or denied. If approved, template becomes the contract that the DAO uses to hold the Project accountable.
 
-### Components of an Project
+### Components of a Project
 
 - Client (DAO Masons for Internal Project, other for External Project)
-- Contact (usually the Project Lead)
-- Project Lead
-- Team (Each individual who will be supporting the project)
-- Work involved
-- Estimate of time (and the expected amount billed to DAO Masons)
-- Scope of project (or projected output for ongoing projects)
+- Submitted By (often the Project Lead)
+- Project Lead (Responsible for managing the project, see description below)
+- Initial Role Structure (A set of roles with purpose & accountabilities that, if filled would result in a functioning team capable of achieving the stated outcomes)
+- Team (Each individual who will initially be supporting the project and filling roles)
+- Outcomes (1 or more distinct verifiable end results for the project)
+- Ongoing Processes (Repeating events such as meetings, code deployment, tweets etc.)
+- Estimated end date
 - Due date (or review date for ongoing projects)
 - Brief Analysis of the project
 - Some sort of project DAO mechanism to track progress and give fair compensation to the team (usually this will be [Ritual of Light](/docs/Rituals/ritual-of-sacrifice.md)
 - Payment method (ex. Smart Invoice)
 - Clients preferred network for payments (try to use the same network as DAO Masons Core DAO to avoid fees and transit risks)
 
+Answer these questions: 
+
+* What problem does this project solve?
+* What is the "Win State" available at the end of this project? 
+* What would be the major impact of **not** doing this project?
+* What could go wrong? What is the "Lose State"?
+* How does your proposal uniquely move us toward the Win State and avoid the Lose State?
+
+For each outcome:
+* What are the major deliverables?
+* How will we know that this outcome has been achieved?
+* What benefit do we expect from achieving this outcome? 
+
+For each ongoing process:
+* What is the ongoing process?
+* How often does it happen, and what happens?
+* Is it possible this ongoing process will continue after this project ends? If so why?
+
+
+
+
 ## Ongoing Operations
 
-Ongoing operations are projects that are ongoing and have no end date. These projects are generally used to manage the day to day operations of DAO Masons. Like internal projects, DAO Masons is the client. However, these projects many not have end dates, and instead will decide on renewing the operation during **reviews**.
+Projects have 2 main parts: Outcomes and Ongoing Operations. 
 
 Examples of ongoing operations include:
 
