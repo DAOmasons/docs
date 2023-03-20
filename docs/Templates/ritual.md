@@ -1,13 +1,5 @@
 # Ritual/Implementation Template
 
-##### Template Link
-
-_(Delete this section after you have copied the template)_
-
-##### Implementation Priority
-
-(Out of all the rituals, where does this one sit. ex. Priority 1 of 9, Undecided, or Finished)
-
 ##### Current Stage of Development
 
 - [ ] Unimplemented

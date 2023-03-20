@@ -1,9 +1,5 @@
 # Ritual of Acumen
 
-##### Priority
-
-Undecided.
-
 ##### Current Stage of Development
 
 - [x] Unimplemented

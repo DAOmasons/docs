@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Ritual of Sacrifice"
+sidebar_label: 'Ritual of Sacrifice'
 ---
 
 # Ritual of Sacrifice
@@ -86,7 +86,7 @@ sidebar_label: "Ritual of Sacrifice"
   - Once this is done, the team discusses whatever they please
 - Meetings should be short and should finish accomplish the main goals above before shooting the shit
 - We should not allocate shares for shooting the shit, however shooting the shit for some time is recommended on occasion.
-- The team lead is resposible for making sure the meeting is orderly and does not go off the rails.
+- The team lead is responsible for making sure the meeting is orderly and does not go off the rails.
 - It is possible that every member cannot meet the daily check ins. This can be because of scheduling issues, time-zone issues, or that they're working on multiple projects
 - Once the meeting is over, the team lead quickly reviews the claims and makes sure that the amount claimed is what was stated during the meeting
 

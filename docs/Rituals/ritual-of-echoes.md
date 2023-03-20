@@ -1,8 +1,4 @@
-# Ritual/Implementation Template
-
-##### Priority
-
-Undecided.
+# Ritual of Echoes
 
 ##### Current Stage of Development
 
