@@ -2,34 +2,18 @@
 sidebar_label: "New Project Template"
 ---
 
-## New Projects
+# New Project Proposal Template
 
-Any member of the DAO can propose a new Project.
-
-There are 2 main types of Projects: Internal and External
-
-All projects must define 1 or more **Project Outcomes**. An Outcome is defined in a way that makes it clear when it is complete, so projects naturally end when they've achieved all of their defined Outcomes. Projects can also be ended prematurely if the Outcome is deemed unnecessary or infeasible for some reason.
-
-Projects may define **Recurring Processes** - actions that are expected to be repeated again and again during the lifespan of the Project.
-
-**Internal projects** are designed to improve some aspect of DAO Masons itself. Examples: Set up a CRM, Generate & Publish internal Rulebook.
-
-**External projects** are designed to provide service to an external entity according to external specifications. Examples: Launch a DAO-backed web site that lets Org A track user contributions.
-
-### Proposing a new Project
-
-Proposing a new PRoject starts with the New Project Template. This is an opportunity to clearly define the Project Outcomes, scope, timeline, monetary budget, attentional budget, problems, win state and more.
+Proposing a new [Project](/docs/Rules/projects) starts with this New Project Template. This is an opportunity to clearly define the Project outcomes, scope, timeline, budget, payout schema, attentional budget, problems, win state and more.
 
 This Template is reviewed by the DAO and approved or denied. If approved, template becomes the contract that the DAO uses to hold the Project accountable.
 
-Rituals: The Why, followed by the Mechanics
+### Components of an Project
 
-### Components of an Internal Project
-
-- Client
-- Client Contact (usually the Project Lead)
+- Client (DAO Masons for Internal Project, other for External Project)
+- Contact (usually the Project Lead)
 - Project Lead
-- Team
+- Team (Each individual who will be supporting the project)
 - Work involved
 - Estimate of time (and the expected amount billed to DAO Masons)
 - Scope of project (or projected output for ongoing projects)
