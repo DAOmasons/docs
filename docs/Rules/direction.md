@@ -3,11 +3,9 @@
 #### Hire Page:
 
 - Write a paragraph or two about why someone should hire us. Include our approach and commitment to client work.
+  (Matt)
 - Link to a form the user can fill out to get in touch with us.
-
-#### Values Page:
-
-- Below the heading, provide some preamble about our values and goals behind them.
+  (Jord)
 
 ## Rules Section
 
@@ -26,12 +24,13 @@
 - Explain why we extract these recurring processes out into documents (optimization, clarity, automate, etc)
 - Explain how to use these docs and what to expect from them
 
+(Jord)
+
 #### Rituals of Echoes
 
-- Write out current implementation of Rituals of Echoes
-- Write out next steps
-- Write out endgame
-- Write out any other details
+- Write out current implementation of Rituals of Echoes (Matt)
+- Write out next steps (Matt)
+- Write out endgame (Jord)
 
 #### Ritual of Light
 
@@ -39,16 +38,18 @@
 
 #### Ritual of Oaths
 
+(Whoever gets to this first)
+
 - This is a template, not a final document.
 - Build new doc using ritual template
 - Let's move this template to templates folder
-- Suggest renaming CLOU to Core Member Agreement
+- Rename CLOU to Core Member Agreement
 - Let's instead describe 1) why we have this system, 2) the different agreements we have (contributor agreement, core member agreement)
 - Like all the other mechanics, we describe current implementation and templates.
 
 #### Ritual of Ranks
 
-- Update to include old score system in 1155 token structure. It was a much better system with that.
+- Update to include score system in 1155 token structure. It was a much better system with that.
 
 ## Templates Section
 
@@ -58,9 +59,9 @@
 
 ## Misc
 
-- What was the original intent behind the payout page?
-- What was the purpose of the Outreach page?
-- Spec out partnership page
+- What was the original intent behind the payout page? (remove payout page until we have a need)
+- What was the purpose of the Outreach page? (remove)
+- Spec out partnership page (Jord)
   - How we plan to use service partnerships to scale to demand
   - How we plan to use product partnerships to create expertise - Referral system
-  - What a partnership agreement looks like.
+  - Cross promotion aspect
