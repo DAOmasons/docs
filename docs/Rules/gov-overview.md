@@ -12,11 +12,12 @@ In decentralized, open organizations, focus is really tough to get right. Often,
 
 In order to strike this balance, we've implemented the following systems:
 
-- A clear distinction between making decisions for the Core DAO vs. making decisions within a project. 
+- A clear distinction between making decisions for the Core DAO vs. making decisions within a project.
 - A system for managing what the projects the DAO is working on at any given time and what the scope of the project is.
-- A role system within projects that allows contributors to focus on their scope, 
+- A role system within projects that allows contributors to focus on their scope,
 
-Read More: 
+Read More:
+
 - (Core DAO vs. Project DAOs)[/docs/Rules/decision-making]
 - A clean process
 
@@ -24,3 +25,11 @@ Read More:
 - Clarity
 - Informed Decisions
 - Adaptive Design
+
+### Current State of This Page
+
+- [ ] Empty
+- [x] Rough Draft
+- [ ] Editing passes: 0
+- [ ] Final Draft
+- [ ] Ratified

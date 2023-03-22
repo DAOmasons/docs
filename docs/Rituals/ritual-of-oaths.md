@@ -2,15 +2,6 @@
 sidebar_label: 'Ritual of Oaths'
 ---
 
-**Game Direction:\***
-
-- This is a template, not a final document.
-- Build new doc using ritual template
-- Let's move this template to templates folder
-- Suggest renaming CLOU to Core Member Agreement
-- Let's instead describe 1) why we have this system, 2) the different agreements we have (contributor agreement, core member agreement)
-- Like all the other mechanics, we describe current implementation and templates.
-
 # Ritual of Oaths
 
 - Each DAO Masons creates a **Colleague Letter of Understanding** to codify their commitments to their peers. This document forms the foundation of a DAO Mason's commitment to themselves and the DAO.

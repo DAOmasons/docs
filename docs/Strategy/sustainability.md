@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Sustainability"
+sidebar_label: 'Sustainability'
 ---
 
 # DAO Masons Sustainability
@@ -89,6 +89,8 @@ It is hard to earn a steady income when providing services, so the Echo Fund pro
 ### Rewards Cycle
 
 ![Rewards Cycle](/img/Rewards-Cycle.png)
+
+### Current State of This Page
 
 - [ ] Empty
 - [ ] Rough Draft

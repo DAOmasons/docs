@@ -8,10 +8,6 @@
 - [ ] Partially Automated
 - [ ] Fully Automated/Passive
 
-**Game Direction**
-
-- Update to include score system. It was a much better system with that.
-
 ## Essence
 
 Ritual of Ranks is how we keep track of the roles that each member has completed on a project.

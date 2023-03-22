@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Projects"
+sidebar_label: 'Projects'
 ---
 
 # Projects
@@ -66,7 +66,7 @@ If the DAO approves of the new project, a Moloch Proposal will be created to cre
 
 Projects end when all of their Outcomes have been reached, by a DAO Masons Decision or on the specified end date of the project.
 
-About this document:
+### Current State of This Page
 
 - [ ] Empty
 - [ ] Rough Draft
