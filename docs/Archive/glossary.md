@@ -6,14 +6,14 @@ sidebar_label: "Glossary"
 
 - Attestation
 - Badge
-  - An NFT awarded for achievments within the DAO, such as completing a quest or for completing a project.
+  - An NFT awarded for achievements within the DAO, such as completing a quest or for completing a project.
 - Claim
 - Colleague Letters of Understanding
-  - Aggrements DAO Mason and contributors sign, guiding their commitment to the DAO or the project.
+  - Agreements DAO Mason and contributors sign, guiding their commitment to the DAO or the project.
 - Consultation
   - Our whiteglove process for gaining a full understanding of a DAOs needs.
 - Contractor
-  - Skiled craftspeople that join us to complete client work and or internal projects.
+  - Skilled craftspeople that join us to complete client work and or internal projects.
 - Contributor
   - Craftspeople that contribute to client work.
 - Core Member

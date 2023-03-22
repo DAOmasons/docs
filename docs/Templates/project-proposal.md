@@ -140,7 +140,7 @@ The basics, a couple logos, brand colors (BG, primary, secondary, warning etc)
 
 Comms (8hrs)
 
-Mininum viable Discord: We create a flow for potential customers and members. We have static messages that tell the user what they need to do. We set up a basic spam bot to esure that we're not getting destroyed by bots once we post our Discord on the site.
+Minimum viable Discord: We create a flow for potential customers and members. We have static messages that tell the user what they need to do. We set up a basic spam bot to ensure that we're not getting destroyed by bots once we post our Discord on the site.
 
 - Enable and configure bot
 - Design new onboarding flow

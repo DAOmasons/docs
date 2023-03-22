@@ -2,11 +2,9 @@
 sidebar_label: 'Hire DAO Masons'
 ---
 
-**Game Direction:**
+# Hire DAO Masons
 
-- Remove the directional tech from this page
-- We need copy to help explain why they should hire us.
-- Provide a link to a form the user can fill out to get in touch with us.
+## Help Your DAO Win
 
 ### Current State of This Page
 

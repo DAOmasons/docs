@@ -4,9 +4,7 @@ sidebar_label: 'Values'
 
 # Our Values
 
-**Game Direction**
-
-- Provide some preamble about our values and goals behind them.
+### One Win at a Time
 
 ### Support Sovereign Communities
 
