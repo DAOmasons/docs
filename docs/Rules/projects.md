@@ -4,115 +4,72 @@ sidebar_label: "Projects"
 
 # Projects
 
-Projects are the primary mechanism of DAO Masons. Any time the DAO Masons votes to make some sort of change or accomplish something, they vote on a project proposal.
+## Project Overview
 
-When the proposal passes, and is executed on chain, the DAO spins up a new project DAO.
+Projects are the primary unit of work within DAO Masons. All compensated work occurs within the context of a Project.
 
-Project DAOs are used for:
+Projects begin with a Project Proposal.
 
-## How to create a Project
+Any member can create a Project Proposal using the process defined below.
 
-1. Create a [Project Request](/docs/Templates/project-proposal) and add it to the Discussion Forum.
-2. The item will be added to the meeting agenda.
-3. DAO Masons Core Members discuss the project request, and decide whether or not to submit the proposal to the DAO. This can happen at any stage of the meeting decision making [process](/docs/Rules/decision-making).
-4. Execution of the Moloch Proposal will create a new project DAO for the team to work within. (Currently this process is done manually)
+Projects must include 1 or more Project Outcomes that specify the end results of the project.
 
-## Project Types
+Every project has its own DAO to track contributions and compensation.
 
-### Internal Projects
+## Types of Projects: Internal and External
 
-Internal projects are projects where DAO Masons is the client. DAO Masons is paying (either in shares or fund from the treasury) for this project to be completed. Internal projects have an end date and are generally understood to conclude once the project is finished. They are broadly used to build new DAO assets (products, docs, tools, content) or streamline/automate existing processes.
+**Internal projects** are designed to improve some aspect of DAO Masons itself. Examples: Set up a CRM, Generate & Publish internal Rulebook.
 
-Examples of internal projects include:
+**External projects** are designed to provide service to an external entity according to external specifications. Examples: Launch a DAO-backed web site that lets Org A track user contributions.
 
-- Automating a DAO Masons process with an app.
-- Designing a new DAO Masons website.
-- Building a DAO Masons product.
-- Writing a series of DAO Masons articles.
-- Updating docs for a new mechanism.
+## Project Definition
 
-### Components of a Client Project
+### Project Parameters
 
-- Project Lead
-- Team
-- Work involved
-- Estimate of time (and the expected amount billed to DAO Masons)
-- Scope of project
-- Due date
-- Brief Analysis of the project
-- Some sort of project DAO mechanism to track progress and give fair compensation to the team (usually this will be [Ritual of Light](/docs/Rituals/ritual-of-sacrifice.md)
-
-All of this should be included when the [Project Request](/docs/Templates/project-proposal) is submitted.
-
-## Client Projects
-
-Client Projects are any project where an entity outside of DAO Masons is paying for the work. Client projects can either be fixed term (due date + deliverable) or an ongoing service.
-
-Examples of a client project could include:
-
-- Building a single DAO app for a client
-- Handling ongoing operations in a client DAO
-- Technical training for a client
-- Documenting a client's DAO processes, providing an audit of operations, and a list of recommendations.
-
-### Components of an Internal Project
-
-- Client
-- Client Contact (usually the Project Lead)
-- Project Lead
-- Team
-- Work involved
-- Estimate of time (and the expected amount billed to DAO Masons)
-- Scope of project (or projected output for ongoing projects)
-- Due date (or review date for ongoing projects)
-- Brief Analysis of the project
-- Some sort of project DAO mechanism to track progress and give fair compensation to the team (usually this will be [Ritual of Light](/docs/Rituals/ritual-of-sacrifice.md)
-- Payment method (ex. Smart Invoice)
-- Clients preferred network for payments (try to use the same network as DAO Masons Core DAO to avoid fees and transit risks)
-
-## Ongoing Operations
-
-Ongoing operations are projects that are ongoing and have no end date. These projects are generally used to manage the day to day operations of DAO Masons. Like internal projects, DAO Masons is the client. However, these projects many not have end dates, and instead will decide on renewing the operation during **reviews**.
-
-Examples of ongoing operations include:
-
-- Preparing agenda before each meeting
-- Taking notes during meetings
-- Routing DAO funds or managing the treasury
-- Ongoing client relations and acquisitions
-- Content with a set release schedule, like a podcast.
-
-### Components of an Ongoing Operation
-
-- Project Lead
-- Team
-- Work involved
-- Estimate of time spent each period (week or month) (and the expected amount billed to DAO Masons)
-- Expected output each period (week or month)
-- Payout interval (weekly, monthly, etc)
-- Review Date
-- Brief Analysis of the operation
-- Usually some sort of role, and a way for other DAO members to leave feedback on the operation.
-- Some sort of project DAO mechanism to track progress and give fair compensation to the team (usually this will be [Ritual of Light](/docs/Rituals/ritual-of-sacrifice.md)
-
-## Broad Rules for All Projects
-
-- All projects have a lead
-- All have projects have a time estimate (and a due date or review data if applicable)
+- All projects have 1 or 2 Project Leads
+- All projects must include a Payout Schema that describes how contributors will be compensated
+- All projects have 1 or more Project Outcomes that define tangible outcomes, ensuring the project has an end state
 - All projects must be approved by the Core DAO
-- All projects must have a mechanism to track progress and give fair compensation to the team
-- All project outlines should reference or outline this mechanism for compensation so each team member knows what to expect.
 
-## Payout
+### Project Lead
 
-- For all projects, the payout will happen once the project is completed
-- For client projects, the payout will happen once the client has approved the work (and released the funds in the smart invoice)
-- For Internal projects it will be once DAO Masons approves the project at the weekly meeting.
-- For ongoing operations, payout will happen on each payout interval (weekly, monthly, etc). This is done optimistically. If a Core Member does not feel the work is up to par, they can request an early review of the operation.
-- For all Client projects, the DAO takes its predetermined cut of the payment. This is currently 10% of the payment, but can be changed by the DAO.
+Projects must have a Project Lead and are specified in the Project Proposal.
+
+Project Leads are the final authority on decisions made within a project. Project Leads can be replaced by a majority vote within a Project DAO. Project Leads can be replaced by a DAO Masons majority vote using the Decision Making Process.
+
+Project Leads must adhere to commitments made in the original Project Proposal.
+
+### Payout Schemas
+
+Each project includes a Payout Schema, that defines how compensation is handled within the project. This is decided by the Project Proposer, and reviewed by the DAO. Pay should be fair to contributors, and can include retroactive compensation for work already accomplished.
+
+Payout Schemas must include a minimum 10% cut to the DAO. The DAO has its own Payout Schema for these cuts, the default being 50% to treasury and 50% to the [Ritual of Echoes](/docs/Rituals/ritual-of-echoes) payouts.
+
+Contributor compensation comes in the form of DAO shares, loot or direct pay.
+
+### Project Outcomes & Processes
+
+All projects must define 1 or more **Project Outcomes**. An Outcome is defined in a way that makes it clear when it is complete, so projects naturally end when they've achieved all of their defined Outcomes. Projects can also be ended prematurely by a DAO Masons or Project team vote if the Outcome is deemed unnecessary or infeasible for some reason.
+
+Projects may also define **Recurring Processes** - actions that are expected to be repeated again and again during the lifespan of the Project.
+
+### Creating New Projects
+
+New Projects begin when a member creates a [Project Proposal](/docs/Templates/project-proposal), adds it to the [Discussion Forum](https://commonwealth.im/dao-masons/discussions/Project%20Proposals) and notifies DAO Masons membership in the [DAO Masons Discord](https://discord.gg/FydbKxFnyU).
+
+The item will be added to an upcoming DAO Masons meeting agenda.
+DAO Masons Core Members discuss the project request and use the [Decision Making Process](/docs/Rules/decision-making) to approve or deny the project.
+
+If the DAO approves of the new project, a Moloch Proposal will be created to create a new Project DAO for the team.
+
+### Project End
+
+Projects end when all of their Outcomes have been reached, by a DAO Masons Decision or on the specified end date of the project.
+
+About this document:
 
 - [ ] Empty
 - [ ] Rough Draft
-- [x] Editing passes: 1
+- [x] Editing passes: 2
 - [ ] Final Draft
 - [ ] Ratified

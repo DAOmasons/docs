@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DAO Masons',
-  tagline: 'The World is Crumbling and we are here to pick up the pieces.',
+  tagline: 'We Help DAOs Win',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
