@@ -2,21 +2,19 @@
 sidebar_label: "Projects"
 ---
 
-# Projects
+# Project Overview
 
-## Project Overview
+* Projects are the **primary unit of work** within DAO Masons. All compensated work occurs within the context of a Project.
 
-Projects are the primary unit of work within DAO Masons. All compensated work occurs within the context of a Project.
+* Projects begin with a [Project Proposal](../Templates/project-proposal).
 
-Projects begin with a Project Proposal.
+* Any member can create a Project Proposal using the process defined below.
 
-Any member can create a Project Proposal using the process defined below.
+* Projects must include 1 or more Project Outcomes that specify the end results of the project.
 
-Projects must include 1 or more Project Outcomes that specify the end results of the project.
+* Every project has its own DAO to track contributions and compensation.
 
-Every project has its own DAO to track contributions and compensation.
-
-## Types of Projects: Internal and External
+### Types of Projects: Internal and External
 
 **Internal projects** are designed to improve some aspect of DAO Masons itself. Examples: Set up a CRM, Generate & Publish internal Rulebook.
 
@@ -24,28 +22,38 @@ Every project has its own DAO to track contributions and compensation.
 
 ## Project Definition
 
+Projects are defined by a completed [Project Proposal Template](../Templates/project-proposal) following the guidelines defined in this document.
+
 ### Project Parameters
 
-- All projects have 1 or 2 Project Leads
+- All projects have 1 Project Lead and an optional backup Project Lead
 - All projects must include a Payout Schema that describes how contributors will be compensated
 - All projects have 1 or more Project Outcomes that define tangible outcomes, ensuring the project has an end state
 - All projects must be approved by the Core DAO
+- All projects must have a completed [Project Proposal Template](../Templates/project-proposal)
 
 ### Project Lead
 
-Projects must have a Project Lead and are specified in the Project Proposal.
+* Projects must have a Project Lead that accepts responsibility for the project.
+* Project Leads must adhere to commitments made in the original Project Proposal.
+* Project Leads are the final authority on decisions made within a project. 
+* Project Leads can assign and unassign contributors to Roles within the project. 
+* Project Leads can modify Role definitions as needed. 
+* Project Leads can be replaced by a DAO Masons majority vote using the Decision Making Process.
+* DAO Masons vote to replace a Project Lead may be initiated by a majority vote within project DAO.
 
-Project Leads are the final authority on decisions made within a project. Project Leads can be replaced by a majority vote within a Project DAO. Project Leads can be replaced by a DAO Masons majority vote using the Decision Making Process.
-
-Project Leads must adhere to commitments made in the original Project Proposal.
 
 ### Payout Schemas
 
-Each project includes a Payout Schema, that defines how compensation is handled within the project. This is decided by the Project Proposer, and reviewed by the DAO. Pay should be fair to contributors, and can include retroactive compensation for work already accomplished.
+Each project includes a Payout Schema. 
 
-Payout Schemas must include a minimum 10% cut to the DAO. The DAO has its own Payout Schema for these cuts, the default being 50% to treasury and 50% to the [Ritual of Echoes](/docs/Rituals/ritual-of-echoes) payouts.
+The Project Payout Schema: 
 
-Contributor compensation comes in the form of DAO shares, loot or direct pay.
+* defines how compensation is handled within the project. 
+* is defined by the Project Proposer and is reviewed by the DAO. 
+* should be be fair to contributors, and can include retroactive compensation for work already accomplished leading up to project start.
+* must include a minimum 10% cut to the DAO, which is used in the [Ritual of Echoes](/docs/Rituals/ritual-of-echoes).
+
 
 ### Project Outcomes & Processes
 
@@ -55,18 +63,16 @@ Projects may also define **Recurring Processes** - actions that are expected to 
 
 ### Creating New Projects
 
-New Projects begin when a member creates a [Project Proposal](/docs/Templates/project-proposal), adds it to the [Discussion Forum](https://commonwealth.im/dao-masons/discussions/Project%20Proposals) and notifies DAO Masons membership in the [DAO Masons Discord](https://discord.gg/FydbKxFnyU).
-
-The item will be added to an upcoming DAO Masons meeting agenda.
-DAO Masons Core Members discuss the project request and use the [Decision Making Process](/docs/Rules/decision-making) to approve or deny the project.
-
-If the DAO approves of the new project, a Moloch Proposal will be created to create a new Project DAO for the team.
+The process for creating a new project is described on the [How to Start a New DAO Masons Project](/docs/Templates/project-proposal) page.
 
 ### Project End
 
 Projects end when all of their Outcomes have been reached, by a DAO Masons Decision or on the specified end date of the project.
 
-About this document:
+--- 
+
+## Document Status
+> *Ratified documents have been reviewed and approved by the DAO and are considered "Active Governance" and will not change without a DAO vote. Anything before ratified is considered "Pending Governance" and is subject to change by editorswithout a DAO vote*
 
 - [ ] Empty
 - [ ] Rough Draft

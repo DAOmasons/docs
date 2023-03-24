@@ -22,13 +22,14 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Rules of the Game!',
+      label: 'Governance',
       items: [
+        'Rules/projects',
+        'Rules/proposals',
         'Rules/dao-types',
         'Rules/decision-making',
         'Rules/membership-rules',
-        'Rules/proposals',
-        'Rules/projects',
+        
         'Rules/dao-roles',
         'Rules/glossary',
       ],
