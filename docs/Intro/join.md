@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Join DAO Masons"
+sidebar_label: 'Join DAO Masons'
 ---
 
 # Join DAO Masons

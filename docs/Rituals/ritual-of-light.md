@@ -50,23 +50,16 @@ Ritual of Light solves this problem by:
 
 #### Downsides/Risks
 
-_(List of pitfalls that we are accepting. Can include pitfalls with the system at current implementation or overall)_
-_(Can also include some steps to mitigation with further steps in )_
-
 ## Current Implementation
 
-We have a
+(Describe How Ritual of Light works, from beginning of project to end. Include screenshots, links, and simple diagrams.)
 
 ## Roadmap
 
 #### Next Step
 
-_(Brief Description of what the next implementation step is, with a link to a spec if it exists. If there is not spec, mention that a spec is needed.)_
+- Describe next steps (getting a summoner interface, multi-deployment, etc.)
 
 #### Endgame
 
-_(Brief Description of the desired end state. Consider how things could change)_
-
-## Details
-
-_(Optional)_
+- Describe endgame. What does fully aut0mated mean?

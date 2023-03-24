@@ -2,13 +2,6 @@
 sidebar_label: 'Ritual of Oaths'
 ---
 
-**Game Direction:\***
-
-- This is a template, not a final document.
-- Let's move the template to templates
-- Let's instead describe 1) why we have this system, 2) the different agreements we have (contributor agreement, core member agreement)
-- Like all the other mechanics, we describe current implementation and templates.
-
 # Ritual of Oaths
 
 - Each DAO Masons creates a **Colleague Letter of Understanding** to codify their commitments to their peers. This document forms the foundation of a DAO Mason's commitment to themselves and the DAO.
@@ -55,7 +48,7 @@ I agree and attest that I am in accord with the following three (3) DAO Masons g
 
 I articulate my _Personal Mission Statement_ as follows. I am open to questions about my personal mission as it relates to my work in DAO Masons, and I will refine and articulate it over time.
 
-_Personal Mission Statement_ ******\*\*******\*\*******\*\*******\*\*******\*\*******\*\*******\*\*******\_\_******\*\*******\*\*******\*\*******\*\*******\*\*******\*\*******\*\*******
+_Personal Mission Statement_ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
 I articulate the _Key Activities_ that I agree to pursue & accomplish regularly in pursuit of my Personal Mission Statements and the DAOMason Mission Statements. I agree to fill roles related to these key activities in alignment with my Percent Focus and other commitments.
 
@@ -89,4 +82,4 @@ I agree to be open to encouragement and accountability from other DAOmasons rega
 
 Initials: **\_\_\_**
 
-Signature ******\*\*******\*\*******\*\*******\*\*******\*\*******\*\*******\*\*******\_\_******\*\*******\*\*******\*\*******\*\*******\*\*******\*\*******\*\*******
+Signature **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***

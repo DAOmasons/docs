@@ -1,14 +1,14 @@
 ---
-sidebar_label: "DAO Roles"
+sidebar_label: 'DAO Roles'
 ---
 
 # DAO Roles
 
-Roles at DAO Masons represent a number of different things. In the discord server, roles are similiar to roles you would find in many servers, often times developed around intrest topics that a visitor may be have. Roles can be fluid in the server will come and go. A good example of this would be with Client Roles and Project Roles that go along with that. We find it is easier and creates less clutter in a server if certain conversations are gated to only those that would need to see as a client or as a member of the team. The following is a breakdown of the role sructure at DAO Masons.
+Roles at DAO Masons represent a number of different things. In the discord server, roles are similar to roles you would find in many servers, often times developed around interest topics that a visitor may be have. Roles can be fluid in the server will come and go. A good example of this would be with Client Roles and Project Roles that go along with that. We find it is easier and creates less clutter in a server if certain conversations are gated to only those that would need to see as a client or as a member of the team. The following is a breakdown of the role structure at DAO Masons.
 
 ## DAO Member Roles
 
-Some roles within the DAO can only be acheived by joining the DAO. The only way to join the DAO is by being a contributor.
+Some roles within the DAO can only be achieved by joining the DAO. The only way to join the DAO is by being a contributor.
 
 ## Contributor Roles (Reputation)
 
@@ -24,6 +24,8 @@ Since we develop DAO products, obviously we would need developer roles, account 
 ## Discord Roles
 
 Roles within Discord often follow much of what has already been talked about in this document, in fact those DAO and contributor roles usually coincide with Discord roles. There are a few addition roles in the server which are important to note. For example, all of our bots are given a role, so that they appear nice and orderly on the right menu bar. Another one is #verified. This means that you are verified as human and do not mean any harm to the server.
+
+### Current State of This Page
 
 - [ ] Empty
 - [ ] Rough Draft

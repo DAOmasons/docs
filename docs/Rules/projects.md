@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Projects"
+sidebar_label: 'Projects'
 ---
 
 # Project Overview

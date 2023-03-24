@@ -31,7 +31,6 @@ const sidebars = {
         'Rules/membership-rules',
         
         'Rules/dao-roles',
-        'Rules/glossary',
       ],
     },
     {
