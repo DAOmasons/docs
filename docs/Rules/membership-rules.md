@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Membership Rules"
+sidebar_label: 'Membership Rules'
 ---
 
 # Membership Rules
@@ -49,6 +49,8 @@ Core Members also work on projects and earn, but they are also deeply committed 
 - [DAO Structure](/docs/Rules/dao-structure)
 - [Ritual of Acumen](/docs/Rituals/ritual-of-acumen)
 - [Ritual of Oaths](/docs/Rituals/ritual-of-oaths)
+
+### Current State of This Page
 
 - [ ] Empty
 - [ ] Rough Draft

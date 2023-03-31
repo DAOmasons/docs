@@ -4,7 +4,7 @@ sidebar_label: Proposals
 
 # Proposal Process for DAO Masons
 
-All proposals require a Core Member to sponser. As this is a Moloch DAO, it is possible for anybody to make a proposal, only members my bring a proposal forward for a vote.
+All proposals require a Core Member to sponsor. As this is a Moloch DAO, it is possible for anybody to make a proposal, only members my bring a proposal forward for a vote.
 
 ## Project Proposals
 
@@ -49,6 +49,8 @@ These types of proposals are generally only made by core members, however there 
 
 As is the case in all Moloch DAOs, a member may Rage Quit during the Grace Period. This will convert the members shares into their fair share of tokens in the main treasury. Funds in Project Treasury or otherwise already allocted are not subject to Rage Quit.
 Rage Quit is not an option if you currently have "Yes" votes that have not been executed yet.
+
+### Current State of This Page
 
 - [ ] Empty
 - [ ] Rough Draft
