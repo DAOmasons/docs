@@ -16,7 +16,7 @@ Most importantly, DAOs must be competent. We believe that in order for DAOs to c
 
 ## What We Offer
 
-### Design
+### DAO Design
 
 We design functional DAOs that help communities make decisions, coordinate, and grow. We gather input from the community and help them define their mission, vision, and values. Then we build the mechanisms that make it possible.
 
