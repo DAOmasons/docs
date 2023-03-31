@@ -24,12 +24,12 @@ const sidebars = {
       type: 'category',
       label: 'Governance',
       items: [
+        'Rules/gov-overview',
         'Rules/projects',
         'Rules/proposals',
         'Rules/dao-types',
         'Rules/decision-making',
         'Rules/membership-rules',
-        
         'Rules/dao-roles',
       ],
     },
