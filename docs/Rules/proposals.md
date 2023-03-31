@@ -4,7 +4,7 @@ sidebar_label: Proposals
 
 # Proposal Process for DAO Masons
 
-All proposals require a Core Member to sponser. As this is a Moloch DAO, it is possible for anybody to make a proposal, only members my bring a proposal forward for a vote.
+All proposals require a Core Member to sponsor. As this is a Moloch DAO, it is possible for anybody to make a proposal, only members my bring a proposal forward for a vote.
 
 ## Project Proposals
 
