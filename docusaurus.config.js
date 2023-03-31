@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Arbitrum DAO - Governance docs',
-  tagline: 'Decentralized governance is cool',
-  url: 'https://docs.arbitrum.foundation',
+  title: 'DAO Masons - Governance docs',
+  tagline: 'Helping DAOs Win',
+  url: 'https://www.daomasons.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -43,7 +43,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ArbitrumFoundation/docs/edit/main/',
+            'https://github.com/DAOmasons/docs',
         },
         blog: false,
         theme: {
@@ -56,15 +56,15 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Arbitrum DAO - Governance docs',
+        title: 'DAO Masons - Governance docs',
         logo: {
-          alt: 'Arbitrum DAO',
+          alt: 'DAO Masons',
           src: 'img/logo.svg',
           href: '/gentle-intro-dao-governance',
         },
         items: [
           {
-            href: 'https://github.com/ArbitrumFoundation/docs',
+            href: 'https://github.com/DAOMasons/docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -87,16 +87,16 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/arbitrum',
+                href: 'https://discord.gg/FydbKxFnyU',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/arbitrum',
+                href: 'https://twitter.com/daomasons',
               },
             ],
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Arbitrum Foundation.`,
+        copyright: `Copyright © ${new Date().getFullYear()} DAO Masons.`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -104,20 +104,20 @@ const config = {
       },
       announcementBar: {
         id: "banner",
-        content: `Arbitrum DAO has been officially announced, and the $ARB airdrop is live. <a rel="noopener noreferrer" href='https://arbitrum.foundation/'>Claim your $ARB</a>.`,
+        content: `DAO Masons is officially open for business! <a rel="noopener noreferrer" href='https://www.daomasons.com/#services/'>Schedule a free consulation.</a>`,
         backgroundColor: 'rgb(8 53 117)',
         textColor: 'white',
         isCloseable: false,
       },
     }),
-  scripts: [
-    // Fathom Analytics
-    {
-      src: 'https://thirty-thirtyfour.arbitrum.foundation/script.js',
-      'data-site': 'QLNDABBR',
-      defer: true,
-    },
-  ],
+  // scripts: [
+  //   // Fathom Analytics
+  //   {
+  //     src: 'https://thirty-thirtyfour.daomasons.foundation/script.js',
+  //     'data-site': 'QLNDABBR',
+  //     defer: true,
+  //   },
+  // ],
 };
 
 module.exports = config;

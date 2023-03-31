@@ -1,7 +1,7 @@
 ---
 id: why-governance
 title: Why decentralize Arbitrum governance with $ARB?
-sidebar_label: Why decentralize governance?
+sidebar_label: Why decentralize governance??
 description: Learn about the rationale behind introducing the $ARB governance token, and the important role it plays in the progressive decentralization of the Arbitrum protocol.
 dao_author: dzgoldman
 dao_sme: dzgoldman
