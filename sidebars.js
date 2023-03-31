@@ -1,67 +1,47 @@
-/**
- * Creating a sidebar enables you to:
- - create an ordered group of docs
- - render a sidebar for each doc of that group
- - provide next/previous navigation
+// @ts-nocheck
+// Docs: https://docusaurus.io/docs/next/sidebar
+// Tip: sidebar labels are specified within the frontmatter of individual docs, not here
 
- The sidebars can be generated from the filesystem, or explicitly defined here.
-
- Create as many sidebars as you want.
- */
-
-// @ts-check
-
-/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
-const sidebars = {
-  // By default, Docusaurus generates a sidebar from the docs folder structure
-  docs: [
+module.exports = {
+  sidebar: [
     {
       type: 'category',
       label: 'DAO Masons',
+      items: ['Intro/about', 'Intro/values', 'Intro/join'],
+    },
+    {
+      type: 'category',
+      label: 'Governance',
       items: [
-        'Intro/intro',
-        'Intro/manifesto',
-        'Intro/hire',
-        'Intro/mason-values',
-        'Intro/join',
+        'Rules/gov-overview',
+        'Rules/projects',
+        'Rules/proposals',
+        'Rules/dao-types',
+        'Rules/decision-making',
+        'Rules/membership-rules',
+        'Rules/dao-roles',
       ],
     },
     {
       type: 'category',
-      label: 'Rules of the Game',
-      items: [
-        'Rules/governance',
-        'Rules/dao-structure',
-        'Rules/dao-roles',
-        'Rules/projects',
-        'Rules/glossary',
-      ],
+      label: 'Strategy',
+      items: ['Strategy/sustainability'],
     },
     {
       type: 'category',
       label: 'Rituals',
       items: [
-        'Rituals/ritual-of-sacrifice',
-        'Rituals/ritual-of-skill',
-        'Rituals/ritual-of-growth',
+        'Rituals/about-rituals',
         'Rituals/ritual-of-oaths',
         'Rituals/ritual-of-echoes',
+        'Rituals/ritual-of-light',
+        'Rituals/ritual-of-ranks',
+        'Rituals/ritual-of-acumen',
       ],
     },
-  ],
-
-  // But you can create a sidebar manually
-  /*
-  tutorialSidebar: [
-    'intro',
-    'hello',
     {
       type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
+      label: 'Templates',
+      items: ['Templates/project-proposal', 'Templates/ritual'],
     },
-  ],
-   */
-};
-
-module.exports = sidebars;
+  ]}

@@ -6,14 +6,14 @@ sidebar_label: "Glossary"
 
 - Attestation
 - Badge
-  - An NFT awarded for achievments within the DAO, such as completing a quest or for completing a project.
+  - An NFT awarded for achievements within the DAO, such as completing a quest or for completing a project.
 - Claim
 - Colleague Letters of Understanding
-  - Aggrements DAO Mason and contributors sign, guiding their commitment to the DAO or the project.
+  - Agreements DAO Mason and contributors sign, guiding their commitment to the DAO or the project.
 - Consultation
   - Our whiteglove process for gaining a full understanding of a DAOs needs.
 - Contractor
-  - Skiled craftspeople that join us to complete client work and or internal projects.
+  - Skilled craftspeople that join us to complete client work and or internal projects.
 - Contributor
   - Craftspeople that contribute to client work.
 - Core Member
@@ -21,7 +21,7 @@ sidebar_label: "Glossary"
 - Core DAO
   - The governance and operations DAO for DAO Masons.
 - Demotion Proposal
-  - A proposal to convert an inactive members voting shares to non voting shares. 
+  - A proposal to convert an inactive members voting shares to non voting shares.
 - Echo Fund
   - A fund that accumulates with every project and is streamed to members in proportion to the shares they have accumulated in the DAO.
 - Lex DAO
@@ -30,7 +30,7 @@ sidebar_label: "Glossary"
   - Moloch is many things, Moloch is:
     - a fictional Demon that brings chaos and discoordination upon the world. DAOs are a way of overcoming this demons effects by enabling coordination.
     - The contracts which form the back end for governance of DAO Masons. The most current version of the moloch contract, V3, is called baal.sol
-    - A DAO named moloch DAO, which provides grants to important Ethereum ecosystem inititives. 
+    - A DAO named moloch DAO, which provides grants to important Ethereum ecosystem inititives.
 - Offer Sheet
   - Our written offer of services, developed after the consulatation process.
 - Payment Milestone
@@ -61,7 +61,7 @@ sidebar_label: "Glossary"
   - The ability of a member to convert their DAO tokens into their fair fair of the DAO treasury.
 - Ritual
   - The documents that guide the DAO Masons style of governance.
-- Shares 
+- Shares
   - Voting
     - Can vote on proposals.
     - May sponser proposals.
@@ -76,8 +76,15 @@ sidebar_label: "Glossary"
 - Tools of the Trade
 - Transparent Work
   - Our client work will be fully available for inspection and auditing by our clients.
-- Treasury 
+- Treasury
   - DAO Treasury
   - Project Treasury
 - Trusted System
+
   - An organization system that each member must maintain, in order to maintain motivation for completing tasks for the DAO.
+
+- [ ] Empty
+- [ ] Rough Draft
+- [x] Editing passes: 1
+- [ ] Final Draft
+- [ ] Ratified

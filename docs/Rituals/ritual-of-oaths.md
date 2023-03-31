@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Ritual of Oaths"
+sidebar_label: 'Ritual of Oaths'
 ---
 
 # Ritual of Oaths
@@ -48,11 +48,11 @@ I agree and attest that I am in accord with the following three (3) DAO Masons g
 
 I articulate my _Personal Mission Statement_ as follows. I am open to questions about my personal mission as it relates to my work in DAO Masons, and I will refine and articulate it over time.
 
-_Personal Mission Statement_ **************************************************************\_\_**************************************************************
+_Personal Mission Statement_ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
 I articulate the _Key Activities_ that I agree to pursue & accomplish regularly in pursuit of my Personal Mission Statements and the DAOMason Mission Statements. I agree to fill roles related to these key activities in alignment with my Percent Focus and other commitments.
 
-_Key Activities & Roles_ ******************************\*\*******************************\_\_******************************\*\*******************************
+_Key Activities & Roles_ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
 ### Focus Commitment
 
@@ -82,4 +82,4 @@ I agree to be open to encouragement and accountability from other DAOmasons rega
 
 Initials: **\_\_\_**
 
-Signature **************************************************************\_\_**************************************************************
+Signature **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***\*\***

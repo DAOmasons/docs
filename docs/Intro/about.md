@@ -1,15 +1,22 @@
 ---
 sidebar_label: 'About'
-sidebar_position: 2
 ---
 
 # DAO Masons
 
-DAO Masons are a collective of builders dedicated to helping other DAOs coordinate. We craft the tools, processes, and systems that DAOs need to achieve their goals.
+### Our mission is to help DAOs win.
+
+We believe in the potential of DAOs. That building spaces where people have the freedom to solve meaningful problems will create meaningful results. Individuals, when spurred to action through a common accord, approach their full potential.
+
+We also believe that in order to get there, we need reliable and sustainable structures, tailor-fit to the people inside them. These structures need to foster alignment inside the DAO so it can meaningfully impact the outside world.
+
+Most importantly, DAOs must be competent. We believe that in order for DAOs to change the world, they must first share and delight in a rich collection of well-earned wins.
+
+**Our mission is to help DAOs win. Because when DAOs win, we all win.**
 
 ## What We Offer
 
-### Design
+### DAO Design
 
 We design functional DAOs that help communities make decisions, coordinate, and grow. We gather input from the community and help them define their mission, vision, and values. Then we build the mechanisms that make it possible.
 
@@ -25,9 +32,19 @@ In order for governance to be accessible to all members, they need know what gam
 
 Some problems are common to many DAOs. Our goal is to maximize the value we create for the ecosystem by refactoring our custom service solutions into scalable, modular products.
 
-### DAO Operations
+### Current State of This Page
 
-<!-- ### Why Now?
+- [ ] Empty
+- [x] Rough Draft
+- [ ] Editing passes: 0
+- [ ] Final Draft
+- [ ] Ratified
+
+<!--
+
+TODO: ### DAO Operations
+
+ ### Why Now?
 
 It falls on us to challenge old assumptions and become new engineers of human coordination systems. We do this for ourselves, our families, communities and the greater society. We do this by pursuing mastery over the fundamental mechanics of the new basic unit of human coordination: The DAO.
 

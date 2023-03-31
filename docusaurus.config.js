@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
@@ -6,24 +6,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DAO Masons',
-  tagline: 'The World is Crumbling and we are here to pick up the pieces.',
-  favicon: 'img/favicon.ico',
-
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  title: 'DAO Masons - Governance docs',
+  tagline: 'Helping DAOs Win',
+  url: 'https://www.daomasons.com',
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'DAOmasons', // Usually your GitHub org/user name.
-  projectName: 'foundation-docs', // Usually your repo name.
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
+  favicon: 'img/dm-ico.ico',
+  markdown: {
+    mermaid: true
+  },
+  themes: ['@docusaurus/theme-mermaid'],
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -31,53 +24,47 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  plugins: ["docusaurus-plugin-less", [require.resolve('docusaurus-lunr-search'), {
+    indexBaseUrl: true
+  }]],
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          // q: why is it configured this way?
+          // a: we originally tried to use "docs only mode" by setting the `routeBasePath` to `/`, but this prevents the landing page from displaying the`/gentle-intro-dao-governance` slug, which is important for SEO.
+          //    this doc elaborates: https://docusaurus.io/docs/docs-introduction#docs-only-mode
+          path: 'docs',
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
+          breadcrumbs: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/DAOmasons/docs',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve('./src/css/custom.less'),
         },
       }),
     ],
   ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/dao-masons.png',
       navbar: {
-        title: 'DAO Masons',
+        title: 'DAO Masons - Governance docs',
         logo: {
-          alt: 'DAO Masons Logo',
-          src: 'img/dao-masons.png',
+          alt: 'DAO Masons',
+          src: 'img/dm-logo.svg',
+          href: '/gentle-intro-dao-governance',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'Intro/intro',
-            position: 'left',
-            label: 'Foundation Docs',
-          },
-          {
-            href: 'https://github.com/daomasons',
+            href: 'https://github.com/DAOMasons/docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -90,8 +77,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Intro',
-                to: '/docs/Intro',
+                label: 'Get started',
+                to: '/gentle-intro-dao-governance',
               },
             ],
           },
@@ -100,23 +87,14 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/AwkdDVr7',
+                href: 'https://discord.gg/FydbKxFnyU',
               },
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/daomasons',
               },
             ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/daomasons',
-              },
-            ],
-          },
+          }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} DAO Masons.`,
       },
@@ -124,7 +102,22 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      announcementBar: {
+        id: "banner",
+        content: `DAO Masons is officially open for business! <a rel="noopener noreferrer" href='https://www.daomasons.com/#services/'>Schedule a free consulation.</a>`,
+        backgroundColor: 'rgb(8 53 117)',
+        textColor: 'white',
+        isCloseable: false,
+      },
     }),
+  // scripts: [
+  //   // Fathom Analytics
+  //   {
+  //     src: 'https://thirty-thirtyfour.daomasons.foundation/script.js',
+  //     'data-site': 'QLNDABBR',
+  //     defer: true,
+  //   },
+  // ],
 };
 
 module.exports = config;
