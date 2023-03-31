@@ -104,3 +104,34 @@ This project aims to promote our DAO's services to other DAOs, increase brand aw
    - We are measuring meaningful interactions and emphasizing outreach & communication, which makes it likely we'll gain positive attention and be seen as a reliable source for DAOs within the larger Arbitrum community.
    - Breaking the work into discrete roles makes it less overwhelming to any individual, and granular roles can be handed off to others if we need to reassign people to client work
    - Weekly strategy & review meeting will be measuring meaningful interactions, which should create a reward cycle for us to improve motivation
+
+## For Each Outcome:
+
+1. **What are the major deliverables?**
+
+   1. Increase DAO Masons visibility
+      - 1000 meaningful interactions
+      - Forum post responses, references, likes, mentions
+   2. Establish partnerships with at least three other DAOs
+
+   - 5 meetings/conversations with potential clients
+
+   3. Get Clients
+
+   - Close on one paid deal
+
+2. **How will we know that this outcome has been achieved?**
+
+   - Increased brand awareness and engagement among larger DAOs
+   - Partnerships established with at least three larger DAOs
+   - Improved conversion rates
+
+3 **What benefit do we expect from achieving this outcome?**
+
+## For each ongoing process:
+
+1. **What is the ongoing process?**
+
+2. **How often does it happen, and what happens?**
+
+3. **Is it possible this ongoing process will continue after this project ends? If so why?**
