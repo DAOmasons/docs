@@ -5,125 +5,43 @@
 module.exports = {
   sidebar: [
     {
-      type: 'doc',
-      id: 'gentle-intro-dao-governance',
-    },
-    {
-      type: 'doc',
-      id: 'why-governance',
-    },
-    {
-      type: 'doc',
-      id: 'airdrop-eligibility-distribution',
-    },
-    {
-      type: 'doc',
-      id: 'state-of-progressive-decentralization',
-    },
-    {
-      type: 'doc',
-      id: 'dao-constitution',
-    },
-    {
-      type: 'doc',
-      id: 'new-arb-chains',
+      type: 'category',
+      label: 'DAO Masons',
+      items: ['Intro/about', 'Intro/values', 'Intro/join'],
     },
     {
       type: 'category',
-      label: 'How-to guides',
-      collapsed: false,
+      label: 'Governance',
       items: [
-        {
-          type: 'doc',
-          id: 'how-tos/create-submit-dao-proposal',
-        },
-        {
-          type: 'doc',
-          id: 'how-tos/resubmit-dao-proposal',
-        },
-        {
-          type: 'doc',
-          id: 'how-tos/select-delegate-voting-power',
-        },
-        {
-          type: 'doc',
-          id: 'how-tos/apply-become-delegate',
-        },
-        {
-          type: 'doc',
-          id: 'how-tos/build-strong-delegate-platform',
-        },
-        {
-          type: 'doc',
-          id: 'how-tos/vote-dao-proposals',
-        }
+        'Rules/gov-overview',
+        'Rules/projects',
+        'Rules/proposals',
+        'Rules/dao-types',
+        'Rules/decision-making',
+        'Rules/membership-rules',
+        'Rules/dao-roles',
       ],
     },
     {
       type: 'category',
-      label: 'Governance concepts',
+      label: 'Strategy',
+      items: ['Strategy/sustainability'],
+    },
+    {
+      type: 'category',
+      label: 'Rituals',
       items: [
-        {
-          type: 'doc',
-          id: 'concepts/arb-token',
-        },
-        {
-          type: 'doc',
-          id: 'concepts/arbitrum-dao',
-        },
-        {
-          type: 'doc',
-          id: 'concepts/delegate-delegation',
-        },
-        {
-          type: 'doc',
-          id: 'concepts/sybil-account',
-        },
-        {
-          type: 'doc',
-          id: 'concepts/dao-vote',
-        },
-        {
-          type: 'doc',
-          id: 'concepts/security-council',
-        },
-        {
-          type: 'doc',
-          id: 'concepts/lifecycle-anatomy-aip-proposal',
-        },
-        {
-          type: 'doc',
-          id: 'concepts/public-preview-content',
-        }
+        'Rituals/about-rituals',
+        'Rituals/ritual-of-oaths',
+        'Rituals/ritual-of-echoes',
+        'Rituals/ritual-of-light',
+        'Rituals/ritual-of-ranks',
+        'Rituals/ritual-of-acumen',
       ],
     },
     {
       type: 'category',
-      label: 'Governance architecture',
-      items: [
-        {
-          type: 'link',
-          label: 'Sybil detection',
-          href: 'https://github.com/ArbitrumFoundation/sybil-detection',
-        },
-        {
-          type: 'link',
-          label: 'Smart contract architecture',
-          href: 'https://github.com/ArbitrumFoundation/governance/blob/main/docs/overview.md',
-        },
-        {
-          type: 'doc',
-          id: 'deployment-addresses'
-        }
-      ],
+      label: 'Templates',
+      items: ['Templates/project-proposal', 'Templates/ritual'],
     },
-    {
-      type: 'doc',
-      id: 'dao-comprehension-check',
-    },
-    {
-      type: 'doc',
-      id: 'dao-glossary',
-    }
-  ],
-};
+  ]}

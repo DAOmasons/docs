@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/dm-ico.ico',
   markdown: {
     mermaid: true
   },
@@ -59,7 +59,7 @@ const config = {
         title: 'DAO Masons - Governance docs',
         logo: {
           alt: 'DAO Masons',
-          src: 'img/logo.svg',
+          src: 'img/dm-logo.svg',
           href: '/gentle-intro-dao-governance',
         },
         items: [
