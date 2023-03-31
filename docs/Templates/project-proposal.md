@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # New Project Proposal Template
 
 **Project Title:** Arbitrum Outreach
@@ -105,17 +105,15 @@ This project aims to promote our DAO's services to other DAOs, increase brand aw
    - We are measuring meaningful interactions and emphasizing outreach & communication, which makes it likely we'll gain positive attention and be seen as a reliable source for DAOs within the larger Arbitrum community.
    - Breaking the work into discrete roles makes it less overwhelming to any individual, and granular roles can be handed off to others if we need to reassign people to client work
    - Weekly strategy & review meeting will be measuring meaningful interactions, which should create a reward cycle for us to improve motivation
-=======
----
-sidebar_label: "Start a New Project"
----
+
+
 # How to Start a New DAO Masons Project
 
 1. **Read** the [Project Overview](../Rules/projects) rules page.
 1. **Create** a Project Request using the template below. 
 1. **Add** it to the Discussion Forum.
 1. **Attend** a DAO Masons meeting and add your project to the agenda. 
-1. **Use** the [Decision Making Process](/docs/Rules/decision-making) with DAO Masons Core Members to decide whether or not to initiate an on-chain DAO vote for the proposal.
+1. **Use** the [Decision Making Process](/Rules/decision-making) with DAO Masons Core Members to decide whether or not to initiate an on-chain DAO vote for the proposal.
 
 If a proposal is created and passes, a new project DAO is created for the team to work within and work begins. (Currently this process is done manually)
 
@@ -124,7 +122,7 @@ If a proposal is created and passes, a new project DAO is created for the team t
 
 ### New Project Proposal Template
 
-Proposing a new [Project](/docs/Rules/projects) starts with this New Project Template. This is an opportunity to clearly define the Project outcomes, scope, timeline, budget, payout schema, attentional budget, problems, win state and more.
+Proposing a new [Project](/Rules/projects) starts with this New Project Template. This is an opportunity to clearly define the Project outcomes, scope, timeline, budget, payout schema, attentional budget, problems, win state and more.
 
 This template is reviewed by the DAO and approved or denied. If approved, template becomes the contract that the DAO uses to hold the Project accountable.
 
@@ -296,4 +294,3 @@ Ritual of Light
 - [x] Editing passes: 1
 - [ ] Final Draft
 - [ ] Ratified
->>>>>>> 9ddbd30d3c8db94a6e5f1ebd605ceb06020570ed

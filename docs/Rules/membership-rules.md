@@ -4,7 +4,7 @@ sidebar_label: 'Membership Rules'
 
 # Membership Rules
 
-As outlined in the [Join DAO Masons](/docs/Intro/join) page, there are two distinct paths for contributors to work with DAO Masons:
+As outlined in the [Join DAO Masons](/Intro/join) page, there are two distinct paths for contributors to work with DAO Masons:
 
 ## Contributor
 
@@ -40,15 +40,15 @@ Core Members also work on projects and earn, but they are also deeply committed 
 
 1. One Core Member must sponsor you for membership
 2. Contribute to at least 3 completed projects including 1 Internal Project under the contributor track.
-3. Complete the [Ritual of Acumen](/docs/Rituals/ritual-of-acumen)
-4. Complete the [Ritual of Oaths](/docs/Rituals/ritual-of-oaths)
+3. Complete the [Ritual of Acumen](/Rituals/ritual-of-acumen)
+4. Complete the [Ritual of Oaths](/Rituals/ritual-of-oaths)
 5. Afterwards, the DAO must vote to accept you as a Core Member
 
 #### Read More:
 
-- [DAO Structure](/docs/Rules/dao-structure)
-- [Ritual of Acumen](/docs/Rituals/ritual-of-acumen)
-- [Ritual of Oaths](/docs/Rituals/ritual-of-oaths)
+- [DAO Structure](/Rules/dao-structure)
+- [Ritual of Acumen](/Rituals/ritual-of-acumen)
+- [Ritual of Oaths](/Rituals/ritual-of-oaths)
 
 ### Current State of This Page
 

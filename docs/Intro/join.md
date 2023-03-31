@@ -16,7 +16,7 @@ There are no limitations on earnings or how many projects a contributor can work
 
 If you wish to begin working at DAO Masons, please join our [Discord](https://discord.gg/zQYhrUB5Hj) and introduce yourself in the #introductions channel.We will then invite you to our contributor channel where you can begin working on projects.
 
-Read more about the Contributor Track [here](/docs/Rules/membership-rules#contributor).
+Read more about the Contributor Track [here](/Rules/membership-rules#contributor).
 
 ### Core Member Track
 
@@ -28,14 +28,14 @@ However, it is important to note that anyone willing to put in the effort can be
 
 This path is difficult but it is designed to be as fair as possible.
 
-Read more about the Core Member Track [here](/docs/Rules/membership-rules#core-member).
+Read more about the Core Member Track [here](/Rules/membership-rules#core-member).
 
 #### Read More:
 
-- ##### [Membership Rules](/docs/Rules/membership-rules)
-- ##### [DAO Structure](/docs/Rules/dao-structure)
-- ##### [Ritual of Acumen](/docs/Rituals/ritual-of-acumen)
-- ##### [Ritual of Oaths](/docs/Rituals/ritual-of-oaths)
+- ##### [Membership Rules](/Rules/membership-rules)
+- ##### [DAO Structure](/Rules/dao-structure)
+- ##### [Ritual of Acumen](/Rituals/ritual-of-acumen)
+- ##### [Ritual of Oaths](/Rituals/ritual-of-oaths)
 
 ### Current State of This Page
 

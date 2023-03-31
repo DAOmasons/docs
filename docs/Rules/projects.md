@@ -52,7 +52,7 @@ The Project Payout Schema:
 * defines how compensation is handled within the project. 
 * is defined by the Project Proposer and is reviewed by the DAO. 
 * should be be fair to contributors, and can include retroactive compensation for work already accomplished leading up to project start.
-* must include a minimum 10% cut to the DAO, which is used in the [Ritual of Echoes](/docs/Rituals/ritual-of-echoes).
+* must include a minimum 10% cut to the DAO, which is used in the [Ritual of Echoes](/Rituals/ritual-of-echoes).
 
 
 ### Project Outcomes & Processes
@@ -63,7 +63,7 @@ Projects may also define **Recurring Processes** - actions that are expected to 
 
 ### Creating New Projects
 
-The process for creating a new project is described on the [How to Start a New DAO Masons Project](/docs/Templates/project-proposal) page.
+The process for creating a new project is described on the [How to Start a New DAO Masons Project](/Templates/project-proposal) page.
 
 ### Project End
 

@@ -4,7 +4,7 @@ sidebar_label: "New Project Template"
 
 # New Project Proposal Template
 
-Proposing a new [Project](/docs/Rules/projects) starts with this New Project Template. This is an opportunity to clearly define the Project outcomes, scope, timeline, budget, payout schema, attentional budget, problems, win state and more.
+Proposing a new [Project](/Rules/projects) starts with this New Project Template. This is an opportunity to clearly define the Project outcomes, scope, timeline, budget, payout schema, attentional budget, problems, win state and more.
 
 This Template is reviewed by the DAO and approved or denied. If approved, template becomes the contract that the DAO uses to hold the Project accountable.
 
@@ -20,7 +20,7 @@ This Template is reviewed by the DAO and approved or denied. If approved, templa
 - Estimated end date
 - Due date (or review date for ongoing projects)
 - Brief Analysis of the project
-- Some sort of project DAO mechanism to track progress and give fair compensation to the team (usually this will be [Ritual of Light](/docs/Rituals/ritual-of-sacrifice.md)
+- Some sort of project DAO mechanism to track progress and give fair compensation to the team (usually this will be [Ritual of Light](/Rituals/ritual-of-sacrifice.md)
 - Payment method (ex. Smart Invoice)
 - Clients preferred network for payments (try to use the same network as DAO Masons Core DAO to avoid fees and transit risks)
 
@@ -68,13 +68,13 @@ Examples of ongoing operations include:
 - Review Date
 - Brief Analysis of the operation
 - Usually some sort of role, and a way for other DAO members to leave feedback on the operation.
-- Some sort of project DAO mechanism to track progress and give fair compensation to the team (usually this will be [Ritual of Light](/docs/Rituals/ritual-of-sacrifice.md)
+- Some sort of project DAO mechanism to track progress and give fair compensation to the team (usually this will be [Ritual of Light](/Rituals/ritual-of-sacrifice.md)
 
 ## How to create a Project
 
-1. Create a [Project Request](/docs/Templates/project-proposal) and add it to the Discussion Forum.
+1. Create a [Project Request](/Templates/project-proposal) and add it to the Discussion Forum.
 2. The item will be added to the meeting agenda.
-3. DAO Masons Core Members discuss the project request, and decide whether or not to submit the proposal to the DAO. This can happen at any stage of the meeting decision making [process](/docs/Rules/decision-making).
+3. DAO Masons Core Members discuss the project request, and decide whether or not to submit the proposal to the DAO. This can happen at any stage of the meeting decision making [process](/Rules/decision-making).
 4. Execution of the Moloch Proposal will create a new project DAO for the team to work within. (Currently this process is done manually)
 
 ## 1st Phase:

@@ -14,13 +14,13 @@ Our governance is structured into two tiers: the Core DAO and Project DAOs. The 
 
 DAO Masons offers two distinct membership roles: Contributors and Core Members. Contributors focus on working on projects and earning, while Core Members take on additional responsibilities, such as participating in governance and leading projects. This membership structure allows for clear progression and recognition of talent and commitment.
 
-Read more about our membership rules [here](/docs/Rules/membership-rules).
+Read more about our membership rules [here](/Rules/membership-rules).
 
 ## Efficient Decision-Making
 
 Both Core Members and Contributors are encouraged to collaborate on projects, share their expertise, and contribute to the growth of the organization. This inclusive environment ensures that diverse perspectives are heard and valued, ultimately leading to better decision-making and more successful projects.
 
-Read more about how we make decisions [here](/docs/Rules/decision-making).
+Read more about how we make decisions [here](/Rules/decision-making).
 
 ## Contribution-Based Governance
 
